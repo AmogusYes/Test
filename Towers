@@ -113,7 +113,7 @@
  "Grave":{
 "Level":0,
 "Limit":2,
-"1":{"Zombie level":1,"Cooldown":20,"Cost":750}
+"1":{"Zombie level":1,"Cooldown":20,"Cost":750},
 "2":{"Zombie level":2,"Cooldown":20,"Cost":1250},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":4000},
 "4":{"Zombie level":4,"Cooldown":20,"Cost":7000},
@@ -214,7 +214,7 @@
 "Limit":4,
 "1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
 "2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":40,"Damage":75},
-"3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150}}
+"3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150}},
 "4":{"Chain length":5,"Chain range":10,"Cost":16000,"AttackRate":3.5,"Range":65,"Damage":450},
 "5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125}
 },
