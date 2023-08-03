@@ -23,11 +23,15 @@
 },
 
 
- "Shotgunner":{"1":{"Cost":500,"AOE":7,"AttackRate":2.8,"Range":16,"Damage":8},
-"Limit":5,"2":{"Cost":300,"AOE":7,"AttackRate":2.6,"Range":16,"Damage":16},
-"5":{"Cost":5000,"Range":20,"Damage":50,"AOE":9,"AttackRate":1},
-"Level":10,"4":{"Cost":2500,"Range":20,"Damage":25,"AOE":7,"AttackRate":1.5},
-"3":{"Cost":1200,"Range":16,"Damage":15,"AOE":7,"AttackRate":1.5}},
+"Shotgunner":{
+"Level":10,
+"Limit":5,
+"1":{"Cost":500,"AOE":7,"AttackRate":2.8,"Range":16,"Damage":8},
+"2":{"Cost":300,"AOE":7,"AttackRate":2.6,"Range":16,"Damage":16},
+"3":{"Cost":1200,"Range":16,"Damage":15,"AOE":7,"AttackRate":1.5},
+"4":{"Cost":2500,"Range":20,"Damage":25,"AOE":7,"AttackRate":1.5},
+"5":{"Cost":5000,"Range":20,"Damage":50,"AOE":9,"AttackRate":1}
+},
 
 
  "Gunner":{"1":{"Cost":300,"Damage":1,"Range":25,"AttackRate":0.3},
