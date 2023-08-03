@@ -1,4 +1,4 @@
-"Minigunner"=={
+Minigunner=={
 "Level":15,
 "Limit":0,
 "1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1},
@@ -8,7 +8,7 @@
 "5":{"Cost":9500,"Damage":12,"Range":40,"AttackRate":0.1}
 }
 ---
-"Repulsor"=={
+Repulsor=={
 "Diameter":3,
 "Level":50,
 "Limit":6,
@@ -19,7 +19,7 @@
 "5":{"Burst":60,"Cost":50000,"Damage":400,"Range":70,"AttackRate":1.5}
 }
 ---
-"Shotgunner"=={
+Shotgunner=={
 "Level":10,
 "Limit":5,
 "1":{"Cost":500,"AOE":7,"AttackRate":2.8,"Range":16,"Damage":8},
@@ -29,7 +29,7 @@
 "5":{"Cost":5000,"Range":20,"Damage":50,"AOE":9,"AttackRate":1}
 }
 ---
-"Gunner"=={
+Gunner=={
 "Level":3,
 "Limit":0,
 "1":{"Cost":300,"Damage":1,"Range":25,"AttackRate":0.3},
@@ -39,7 +39,7 @@
 "5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15}
 }
 ---
-"Freezer"=={
+Freezer=={
 "Level":17,
 "Limit":2,
 "1":{"Damage":2,"AOE":6,"Cost":400,"SpeedDebuff":15,"DebuffTime":3,"Range":20,"AttackRate":3},
@@ -49,7 +49,7 @@
 "5":{"Damage":10,"AOE":8,"Cost":8500,"SpeedDebuff":50,"DebuffTime":6,"Range":30,"AttackRate":2}
 }
 ---
-"Pistoler"=={
+Pistoler=={
 "Level":1,
 "Limit":0,
 "1":{"Cost":250,"Damage":2,"Range":25,"AttackRate":1},
@@ -59,7 +59,7 @@
 "5":{"Cost":2000,"Damage":20,"Range":45,"AttackRate":0.7}
 }
 ---
-"Flamethrower"=={
+Flamethrower=={
 "Level":0,
 "Limit":2,
 "1":{"Cost":1100,"Damage":3,"Range":14,"AttackRate":0.3},
@@ -69,7 +69,7 @@
 "5":{"Cost":12000,"Damage":20,"Range":18,"AttackRate":0.1}
 }
 ---
-"Mortar"=={
+Mortar=={
 "Level":30,
 "Limit":5,
 "1":{"Cost":1000,"AOE":11,"Damage":12,"Range":40,"AttackRate":3},
@@ -79,7 +79,7 @@
 "5":{"Cost":20000,"AOE":25,"Damage":350,"Range":60,"AttackRate":4.5}
 }
 ---
-"Pyramid"=={
+Pyramid=={
 "Level":0,
 "Limit":1,
 "1":{"AttackRate buff":0,"Cost":2000,"Damage buff":0,"Range":30,"Range buff":10},
@@ -89,7 +89,7 @@
 "5":{"AttackRate buff":15,"Cost":16000,"Damage buff":15,"Range":50,"Range buff":15}
 }
 ---
-"Robot"=={
+Robot=={
 "Level":0,
 "Limit":2,
 "1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2250,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
@@ -99,7 +99,7 @@
 "5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":15,"Cost":46000,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09}
 }
 ---
-"Grave"=={
+Grave=={
 "Level":0,
 "Limit":2,
 "1":{"Zombie level":1,"Cooldown":20,"Cost":750},
@@ -110,7 +110,7 @@
 "6":{"Zombie level":5,"Cooldown":10,"Cost":30000}
 }
 ---
-"Plasm"=={
+Plasm=={
 "Level":25,
 "Limit":8,
 "1":{"AttackRate":0.25,"Damage":8,"Range":30,"Cost":3000},
@@ -120,7 +120,7 @@
 "5":{"AttackRate":0.1,"Damage":35,"Range":55,"Cost":20000}
 }
 ---
-"Baller"=={
+Baller=={
 "Level":-1,
 "Limit":2,
 "1":{"Cost":555,"Bounce":4,"Damage":4,"Range":25,"AttackRate":2},
@@ -130,7 +130,7 @@
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":200,"AttackRate":1}
 }
 ---
-"Sniper"=={
+Sniper=={
 "Level":5,
 "Limit":0,
 "1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
@@ -140,7 +140,7 @@
 "5":{"Cost":5000,"Damage":150,"Range":70,"AttackRate":2.8}
 }
 ---
-"Dead eye"=={
+Dead eye=={
 "Level":0,
 "Limit":12,
 "1":{"Damage":8,"AttackRate":0.75,"Range":35,"Cost":950},
@@ -150,7 +150,7 @@
 "5":{"Damage":85,"AttackRate":0.3,"Range":50,"Cost":14000}
 }
 ---
-"Hunter"=={
+Hunter=={
 "Level":0,
 "Limit":0,
 "1":{"Cost":300,"Damage":7,"Range":40,"AttackRate":3},
@@ -160,7 +160,7 @@
 "5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2}
 }
 ---
-"Miner"=={
+Miner=={
 "Level":8,
 "Limit":4,
 "1":{"Mult":50,"Cost":300,"Cash":0},
@@ -170,7 +170,7 @@
 "5":{"Mult":800,"Cost":4200,"Cash":0}
 }
 ---
-"Thief"=={
+Thief=={
 "Level":13,
 "Limit":3,
 "1":{"Mult":20,"Cost":400,"Cash":0,"Damage":4,"Range":10,"AttackRate":1},
@@ -180,7 +180,7 @@
 "5":{"Mult":80,"Cost":4000,"Cash":0,"Damage":30,"Range":13,"AttackRate":0.6}
 }
 ---
-"Boxer"=={
+Boxer=={
 "Level":0,
 "Limit":0,
 "1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":0.9},
@@ -190,7 +190,7 @@
 "5":{"Cost":2850,"Damage":38,"Range":10,"AttackRate":0.7}
 }
 ---
-"Chainer"=={
+Chainer=={
 "Level":70,
 "Limit":4,
 "1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
