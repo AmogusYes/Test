@@ -19,7 +19,7 @@
 "2":{"Burst":25,"Cost":1500,"Damage":100,"Range":40,"AttackRate":2.5},
 "3":{"Burst":25,"Cost":7500,"Damage":175,"Range":40,"AttackRate":2},
 "4":{"Burst":40,"Cost":27500,"Damage":275,"Range":55,"AttackRate":1.75},
-"5":{"Burst":60,"Cost":50000,"Damage":400,"Range":70,"AttackRate":1.5},
+"5":{"Burst":60,"Cost":50000,"Damage":400,"Range":70,"AttackRate":1.5}
 },
 
 
