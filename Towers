@@ -6,8 +6,7 @@ Minigunner=={
 "3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1},
 "4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1},
 "5":{"Cost":9500,"Damage":12,"Range":40,"AttackRate":0.1}
-}
----
+}-----
 Repulsor=={
 "Diameter":3,
 "Level":50,
@@ -17,8 +16,7 @@ Repulsor=={
 "3":{"Burst":25,"Cost":7500,"Damage":175,"Range":40,"AttackRate":2},
 "4":{"Burst":40,"Cost":27500,"Damage":275,"Range":55,"AttackRate":1.75},
 "5":{"Burst":60,"Cost":50000,"Damage":400,"Range":70,"AttackRate":1.5}
-}
----
+}-----
 Shotgunner=={
 "Level":10,
 "Limit":5,
@@ -27,8 +25,7 @@ Shotgunner=={
 "3":{"Cost":1200,"Range":16,"Damage":15,"AOE":7,"AttackRate":1.5},
 "4":{"Cost":2500,"Range":20,"Damage":25,"AOE":7,"AttackRate":1.5},
 "5":{"Cost":5000,"Range":20,"Damage":50,"AOE":9,"AttackRate":1}
-}
----
+}-----
 Gunner=={
 "Level":3,
 "Limit":0,
@@ -37,8 +34,7 @@ Gunner=={
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
 "5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15}
-}
----
+}-----
 Freezer=={
 "Level":17,
 "Limit":2,
@@ -47,8 +43,7 @@ Freezer=={
 "3":{"Damage":6,"AOE":6,"Cost":2000,"SpeedDebuff":30,"DebuffTime":5,"Range":25,"AttackRate":2},
 "4":{"Damage":8,"AOE":6,"Cost":4500,"SpeedDebuff":40,"DebuffTime":5,"Range":30,"AttackRate":2},
 "5":{"Damage":10,"AOE":8,"Cost":8500,"SpeedDebuff":50,"DebuffTime":6,"Range":30,"AttackRate":2}
-}
----
+}-----
 Pistoler=={
 "Level":1,
 "Limit":0,
@@ -57,8 +52,7 @@ Pistoler=={
 "3":{"Cost":450,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":1100,"Damage":12,"Range":40,"AttackRate":0.85},
 "5":{"Cost":2000,"Damage":20,"Range":45,"AttackRate":0.7}
-}
----
+}-----
 Flamethrower=={
 "Level":0,
 "Limit":2,
@@ -67,8 +61,7 @@ Flamethrower=={
 "3":{"Cost":1850,"Damage":8,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5500,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12000,"Damage":20,"Range":18,"AttackRate":0.1}
-}
----
+}-----
 Mortar=={
 "Level":30,
 "Limit":5,
@@ -77,8 +70,7 @@ Mortar=={
 "3":{"Cost":4000,"AOE":15,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":8000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
 "5":{"Cost":20000,"AOE":25,"Damage":350,"Range":60,"AttackRate":4.5}
-}
----
+}-----
 Pyramid=={
 "Level":0,
 "Limit":1,
@@ -87,8 +79,7 @@ Pyramid=={
 "3":{"AttackRate buff":10,"Cost":3500,"Damage buff":0,"Range":40,"Range buff":15},
 "4":{"AttackRate buff":15,"Cost":7000,"Damage buff":0,"Range":45,"Range buff":15},
 "5":{"AttackRate buff":15,"Cost":16000,"Damage buff":15,"Range":50,"Range buff":15}
-}
----
+}-----
 Robot=={
 "Level":0,
 "Limit":2,
@@ -97,8 +88,7 @@ Robot=={
 "3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":12,"Cost":15000,"Missile amount":6,"Damage":20,"Range":50,"AttackRate":0.15},
 "4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":15,"Cost":28500,"Missile amount":8,"Damage":30,"Range":60,"AttackRate":0.1},
 "5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":15,"Cost":46000,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09}
-}
----
+}-----
 Grave=={
 "Level":0,
 "Limit":2,
@@ -108,8 +98,7 @@ Grave=={
 "4":{"Zombie level":4,"Cooldown":20,"Cost":7000},
 "5":{"Zombie level":5,"Cooldown":20,"Cost":20000},
 "6":{"Zombie level":5,"Cooldown":10,"Cost":30000}
-}
----
+}-----
 Plasm=={
 "Level":25,
 "Limit":8,
@@ -118,8 +107,7 @@ Plasm=={
 "3":{"AttackRate":0.2,"Damage":13,"Range":40,"Cost":4000},
 "4":{"AttackRate":0.15,"Damage":23,"Range":45,"Cost":9500},
 "5":{"AttackRate":0.1,"Damage":35,"Range":55,"Cost":20000}
-}
----
+}-----
 Baller=={
 "Level":-1,
 "Limit":2,
@@ -128,8 +116,7 @@ Baller=={
 "3":{"Cost":1234,"Bounce":5,"Damage":15,"Range":35,"AttackRate":1.5},
 "4":{"Cost":7777,"Bounce":7,"Damage":50,"Range":35,"AttackRate":1},
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":200,"AttackRate":1}
-}
----
+}-----
 Sniper=={
 "Level":5,
 "Limit":0,
@@ -138,8 +125,7 @@ Sniper=={
 "3":{"Cost":1400,"Damage":65,"Range":55,"AttackRate":3.5},
 "4":{"Cost":2600,"Damage":100,"Range":60,"AttackRate":3},
 "5":{"Cost":5000,"Damage":150,"Range":70,"AttackRate":2.8}
-}
----
+}-----
 Dead eye=={
 "Level":0,
 "Limit":12,
@@ -148,8 +134,7 @@ Dead eye=={
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
 "4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
 "5":{"Damage":85,"AttackRate":0.3,"Range":50,"Cost":14000}
-}
----
+}-----
 Hunter=={
 "Level":0,
 "Limit":0,
@@ -158,8 +143,7 @@ Hunter=={
 "3":{"Cost":750,"Damage":35,"Range":60,"AttackRate":2.5},
 "4":{"Cost":1500,"Damage":55,"Range":70,"AttackRate":2.5},
 "5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2}
-}
----
+}-----
 Miner=={
 "Level":8,
 "Limit":4,
@@ -168,8 +152,7 @@ Miner=={
 "3":{"Mult":200,"Cost":750,"Cash":0},
 "4":{"Mult":400,"Cost":2000,"Cash":0},
 "5":{"Mult":800,"Cost":4200,"Cash":0}
-}
----
+}-----
 Thief=={
 "Level":13,
 "Limit":3,
@@ -178,8 +161,7 @@ Thief=={
 "3":{"Mult":40,"Cost":700,"Cash":0,"Damage":10,"Range":10,"AttackRate":0.8},
 "4":{"Mult":40,"Cost":1250,"Cash":0,"Damage":20,"Range":10,"AttackRate":0.8},
 "5":{"Mult":80,"Cost":4000,"Cash":0,"Damage":30,"Range":13,"AttackRate":0.6}
-}
----
+}-----
 Boxer=={
 "Level":0,
 "Limit":0,
@@ -188,8 +170,7 @@ Boxer=={
 "3":{"Cost":375,"Damage":9,"Range":10,"AttackRate":0.8},
 "4":{"Cost":950,"Damage":18,"Range":10,"AttackRate":0.8},
 "5":{"Cost":2850,"Damage":38,"Range":10,"AttackRate":0.7}
-}
----
+}-----
 Chainer=={
 "Level":70,
 "Limit":4,
