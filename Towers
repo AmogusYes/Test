@@ -34,11 +34,14 @@
 },
 
 
- "Gunner":{"1":{"Cost":300,"Damage":1,"Range":25,"AttackRate":0.3},
-"Limit":0,"2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
-"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15},
-"Level":2,"4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
-"3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2}},
+"Gunner":{
+"Level":3,
+"Limit":0,
+"1":{"Cost":300,"Damage":1,"Range":25,"AttackRate":0.3},
+"2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
+"3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
+"4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
+"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15}},
 
 
  "Freezer":{"1":{"Damage":2,"AOE":6,"Cost":400,"SpeedDebuff":15,"DebuffTime":3,"Range":20,"AttackRate":3},
