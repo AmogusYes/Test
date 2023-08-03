@@ -9,8 +9,6 @@
 "5":{"Cost":9500,"Damage":12,"Range":40,"AttackRate":0.1}
 },
 
- 
-
 "Repulsor":{
 "Diameter":3,
 "Level":50,
@@ -22,7 +20,6 @@
 "5":{"Burst":60,"Cost":50000,"Damage":400,"Range":70,"AttackRate":1.5}
 },
 
-
 "Shotgunner":{
 "Level":10,
 "Limit":5,
@@ -32,7 +29,6 @@
 "4":{"Cost":2500,"Range":20,"Damage":25,"AOE":7,"AttackRate":1.5},
 "5":{"Cost":5000,"Range":20,"Damage":50,"AOE":9,"AttackRate":1}
 },
-
 
  "Gunner":{
 "Level":3,
@@ -44,7 +40,6 @@
 "5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15}
 },
 
-
  "Freezer":{
 "Level":17,
 "Limit":2,
@@ -54,7 +49,6 @@
 "4":{"Damage":8,"AOE":6,"Cost":4500,"SpeedDebuff":40,"DebuffTime":5,"Range":30,"AttackRate":2},
 "5":{"Damage":10,"AOE":8,"Cost":8500,"SpeedDebuff":50,"DebuffTime":6,"Range":30,"AttackRate":2}
 },
-
 
  "Pistoler":{
 "Level":1,
@@ -66,7 +60,6 @@
 "5":{"Cost":2000,"Damage":20,"Range":45,"AttackRate":0.7}
 },
 
-
  "Flamethrower":{
 "Level":0,
 "Limit":2,
@@ -77,7 +70,6 @@
 "5":{"Cost":12000,"Damage":20,"Range":18,"AttackRate":0.1}
 },
 
-
  "Mortar":{
 "Level":30,
 "Limit":5,
@@ -87,7 +79,6 @@
 "4":{"Cost":8000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
 "5":{"Cost":20000,"AOE":25,"Damage":350,"Range":60,"AttackRate":4.5}
 },
-
 
  "Pyramid":{
 "Level":0,
@@ -109,7 +100,6 @@
 "5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":15,"Cost":46000,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09}
 },
 
-
  "Grave":{
 "Level":0,
 "Limit":2,
@@ -120,7 +110,6 @@
 "5":{"Zombie level":5,"Cooldown":20,"Cost":20000},
 "6":{"Zombie level":5,"Cooldown":10,"Cost":30000}
  },
-
 
  "Plasm":{
 "Level":25,
@@ -142,7 +131,6 @@
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":200,"AttackRate":1}
 },
 
-
  "Sniper":{
 "Level":5,
 "Limit":0,
@@ -152,7 +140,6 @@
 "4":{"Cost":2600,"Damage":100,"Range":60,"AttackRate":3},
 "5":{"Cost":5000,"Damage":150,"Range":70,"AttackRate":2.8}
 },
-
 
  "Dead eye":{
 "Level":0,
@@ -164,8 +151,6 @@
 "5":{"Damage":85,"AttackRate":0.3,"Range":50,"Cost":14000}
 },
 
-
-
  "Hunter":{
 "Level":0
 "Limit':0
@@ -176,7 +161,6 @@
 "5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2}
 },
 
-
  "Miner":{
 "Level":8,
 "Limit":4,
@@ -186,7 +170,6 @@
 "4":{"Mult":400,"Cost":2000,"Cash":0},
 "5":{"Mult":800,"Cost":4200,"Cash":0}
 },
-
 
  "Thief":{
 "Level":13,
@@ -208,13 +191,13 @@
 "5":{"Cost":2850,"Damage":38,"Range":10,"AttackRate":0.7}
 },
 
-
  "Chainer":{
 "Level":70,
 "Limit":4,
 "1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
 "2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":40,"Damage":75},
-"3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150}},
+"3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150},
 "4":{"Chain length":5,"Chain range":10,"Cost":16000,"AttackRate":3.5,"Range":65,"Damage":450},
 "5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125}
-},
+}
+}
