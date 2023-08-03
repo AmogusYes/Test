@@ -1,5 +1,4 @@
-{
-"Minigunner":{
+{"Minigunner":{
 "Level":15,
 "Limit":0,
 "1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1},
@@ -199,5 +198,4 @@
 "3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150},
 "4":{"Chain length":5,"Chain range":10,"Cost":16000,"AttackRate":3.5,"Range":65,"Damage":450},
 "5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125}
-}
-}
+}}
