@@ -2,10 +2,10 @@
 "Minigunner":{
 "Level":15,
 "Limit":0,
-"1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1},
-"2":{"Cost":450,"Damage":2,"Range":30,"AttackRate":0.1},
-"3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1},
-"4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1},
+"1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1}
+"2":{"Cost":450,"Damage":2,"Range":30,"AttackRate":0.1}
+"3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1}
+"4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1}
 "5":{"Cost":9500,"Damage":12,"Range":40,"AttackRate":0.1}
 },
 
@@ -41,8 +41,8 @@
 "2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
-"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15},
-}
+"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.15}
+},
 
 
  "Freezer":{
@@ -52,8 +52,8 @@
 "2":{"Damage":4,"AOE":6,"Cost":800,"SpeedDebuff":25,"DebuffTime":4,"Range":20,"AttackRate":2},
 "3":{"Damage":6,"AOE":6,"Cost":2000,"SpeedDebuff":30,"DebuffTime":5,"Range":25,"AttackRate":2},
 "4":{"Damage":8,"AOE":6,"Cost":4500,"SpeedDebuff":40,"DebuffTime":5,"Range":30,"AttackRate":2},
-"5":{"Damage":10,"AOE":8,"Cost":8500,"SpeedDebuff":50,"DebuffTime":6,"Range":30,"AttackRate":2},
-}
+"5":{"Damage":10,"AOE":8,"Cost":8500,"SpeedDebuff":50,"DebuffTime":6,"Range":30,"AttackRate":2}
+},
 
 
  "Pistoler":{
@@ -63,8 +63,8 @@
 "2":{"Cost":250,"Damage":3,"Range":35,"AttackRate":1},
 "3":{"Cost":450,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":1100,"Damage":12,"Range":40,"AttackRate":0.85},
-"5":{"Cost":2000,"Damage":20,"Range":45,"AttackRate":0.7},
-}
+"5":{"Cost":2000,"Damage":20,"Range":45,"AttackRate":0.7}
+},
 
 
  "Flamethrower":{
@@ -74,8 +74,8 @@
 "2":{"Cost":500,"Damage":4,"Range":14,"AttackRate":0.25},
 "3":{"Cost":1850,"Damage":8,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5500,"Damage":12,"Range":16,"AttackRate":0.15},
-"5":{"Cost":12000,"Damage":20,"Range":18,"AttackRate":0.1},
-}
+"5":{"Cost":12000,"Damage":20,"Range":18,"AttackRate":0.1}
+},
 
 
  "Mortar":{
@@ -85,8 +85,8 @@
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":15,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":8000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":20000,"AOE":25,"Damage":350,"Range":60,"AttackRate":4.5},
-}
+"5":{"Cost":20000,"AOE":25,"Damage":350,"Range":60,"AttackRate":4.5}
+},
 
 
  "Pyramid":{
@@ -96,8 +96,8 @@
 "2":{"AttackRate buff":0,"Cost":800,"Damage buff":0,"Range":40,"Range buff":15},
 "3":{"AttackRate buff":10,"Cost":3500,"Damage buff":0,"Range":40,"Range buff":15},
 "4":{"AttackRate buff":15,"Cost":7000,"Damage buff":0,"Range":45,"Range buff":15},
-"5":{"AttackRate buff":15,"Cost":16000,"Damage buff":15,"Range":50,"Range buff":15},
-}
+"5":{"AttackRate buff":15,"Cost":16000,"Damage buff":15,"Range":50,"Range buff":15}
+},
 
  "Robot":{
 "Level":0,
@@ -106,8 +106,8 @@
 "2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
 "3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":12,"Cost":15000,"Missile amount":6,"Damage":20,"Range":50,"AttackRate":0.15},
 "4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":15,"Cost":28500,"Missile amount":8,"Damage":30,"Range":60,"AttackRate":0.1},
-"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":15,"Cost":46000,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09},
-}
+"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":15,"Cost":46000,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09}
+},
 
 
  "Grave":{
@@ -118,8 +118,8 @@
 "3":{"Zombie level":3,"Cooldown":20,"Cost":4000},
 "4":{"Zombie level":4,"Cooldown":20,"Cost":7000},
 "5":{"Zombie level":5,"Cooldown":20,"Cost":20000},
-"6":{"Zombie level":5,"Cooldown":10,"Cost":30000},
- }
+"6":{"Zombie level":5,"Cooldown":10,"Cost":30000}
+ },
 
 
  "Plasm":{
@@ -129,8 +129,8 @@
 "2":{"AttackRate":0.2,"Damage":8,"Range":35,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":13,"Range":40,"Cost":4000},
 "4":{"AttackRate":0.15,"Damage":23,"Range":45,"Cost":9500},
-"5":{"AttackRate":0.1,"Damage":35,"Range":55,"Cost":20000},
-}
+"5":{"AttackRate":0.1,"Damage":35,"Range":55,"Cost":20000}
+},
 
  "Baller":{
 "Level":-1,
@@ -139,8 +139,8 @@
 "2":{"Cost":555,"Bounce":4,"Damage":8,"Range":30,"AttackRate":2},
 "3":{"Cost":1234,"Bounce":5,"Damage":15,"Range":35,"AttackRate":1.5},
 "4":{"Cost":7777,"Bounce":7,"Damage":50,"Range":35,"AttackRate":1},
-"5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":200,"AttackRate":1},
-}
+"5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":200,"AttackRate":1}
+},
 
 
  "Sniper":{
@@ -150,8 +150,8 @@
 "2":{"Cost":400,"Damage":20,"Range":55,"AttackRate":4},
 "3":{"Cost":1400,"Damage":65,"Range":55,"AttackRate":3.5},
 "4":{"Cost":2600,"Damage":100,"Range":60,"AttackRate":3},
-"5":{"Cost":5000,"Damage":150,"Range":70,"AttackRate":2.8},
-}
+"5":{"Cost":5000,"Damage":150,"Range":70,"AttackRate":2.8}
+},
 
 
  "Dead eye":{
@@ -161,8 +161,8 @@
 "2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
 "4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
-"5":{"Damage":85,"AttackRate":0.3,"Range":50,"Cost":14000},
-}
+"5":{"Damage":85,"AttackRate":0.3,"Range":50,"Cost":14000}
+},
 
 
 
@@ -173,8 +173,8 @@
 "2":{"Cost":300,"Damage":10,"Range":60,"AttackRate":3},
 "3":{"Cost":750,"Damage":35,"Range":60,"AttackRate":2.5},
 "4":{"Cost":1500,"Damage":55,"Range":70,"AttackRate":2.5},
-"5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2},
-}
+"5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2}
+},
 
 
  "Miner":{
@@ -184,7 +184,8 @@
 "2":{"Mult":100,"Cost":300,"Cash":0},
 "3":{"Mult":200,"Cost":750,"Cash":0},
 "4":{"Mult":400,"Cost":2000,"Cash":0},
-"5":{"Mult":800,"Cost":4200,"Cash":0},
+"5":{"Mult":800,"Cost":4200,"Cash":0}
+},
 
 
  "Thief":{
@@ -194,8 +195,8 @@
 "2":{"Mult":20,"Cost":250,"Cash":0,"Damage":5,"Range":10,"AttackRate":0.8},
 "3":{"Mult":40,"Cost":700,"Cash":0,"Damage":10,"Range":10,"AttackRate":0.8},
 "4":{"Mult":40,"Cost":1250,"Cash":0,"Damage":20,"Range":10,"AttackRate":0.8},
-"5":{"Mult":80,"Cost":4000,"Cash":0,"Damage":30,"Range":13,"AttackRate":0.6},
-}
+"5":{"Mult":80,"Cost":4000,"Cash":0,"Damage":30,"Range":13,"AttackRate":0.6}
+},
 
  "Boxer":{
 "Level":0,
@@ -204,8 +205,8 @@
 "2":{"Cost":150,"Damage":6,"Range":10,"AttackRate":0.9},
 "3":{"Cost":375,"Damage":9,"Range":10,"AttackRate":0.8},
 "4":{"Cost":950,"Damage":18,"Range":10,"AttackRate":0.8},
-"5":{"Cost":2850,"Damage":38,"Range":10,"AttackRate":0.7},
-}
+"5":{"Cost":2850,"Damage":38,"Range":10,"AttackRate":0.7}
+},
 
 
  "Chainer":{
@@ -215,5 +216,5 @@
 "2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":40,"Damage":75},
 "3":{"Chain length":4,"Chain range":6,"Cost":7500,"AttackRate":3.5,"Range":55,"Damage":150}}
 "4":{"Chain length":5,"Chain range":10,"Cost":16000,"AttackRate":3.5,"Range":65,"Damage":450},
-"5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125},
-}
+"5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125}
+},
