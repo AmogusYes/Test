@@ -152,8 +152,8 @@
 },
 
  "Hunter":{
-"Level":0
-"Limit':0
+"Level":0,
+"Limit':0,
 "1":{"Cost":300,"Damage":7,"Range":40,"AttackRate":3},
 "2":{"Cost":300,"Damage":10,"Range":60,"AttackRate":3},
 "3":{"Cost":750,"Damage":35,"Range":60,"AttackRate":2.5},
