@@ -35,7 +35,7 @@
 
 
  "Gunner":{
-"Level":2,
+"Level":3,
 "Limit":0,
 "1":{"Cost":300,"Damage":1,"Range":25,"AttackRate":0.3},
 "2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
