@@ -199,3 +199,4 @@
 "4":{"Chain length":5,"Chain range":10,"Cost":16000,"AttackRate":3.5,"Range":65,"Damage":450},
 "5":{"Chain length":6,"Chain range":10,"Cost":42000,"AttackRate":2.5,"Range":80,"Damage":1125}
 }
+}
