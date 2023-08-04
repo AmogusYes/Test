@@ -91,13 +91,21 @@ Robot=={
 }-----
 Grave=={
 "Level":0,
-"Limit":2,
+"Limit":3,
 "1":{"Zombie level":1,"Cooldown":20,"Cost":750},
 "2":{"Zombie level":2,"Cooldown":20,"Cost":1250},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":4000},
 "4":{"Zombie level":4,"Cooldown":20,"Cost":7000},
-"5":{"Zombie level":5,"Cooldown":20,"Cost":20000},
-"6":{"Zombie level":5,"Cooldown":10,"Cost":30000}
+"5":{"Zombie level":5,"Cooldown":20,"Cost":18000}
+}-----
+War camp=={
+"Level":40,
+"Limit":2,
+"1":{"Unit level":1,"Cooldown":20,"Cost":2750},
+"2":{"Unit level":2,"Cooldown":15,"Cost":750},
+"3":{"Unit level":3,"Cooldown":15,"Cost":5000},
+"4":{"Unit level":4,"Cooldown":10,"Cost":11000},
+"5":{"Unit level":5,"Cooldown":10,"Cost":37500}
 }-----
 Plasm=={
 "Level":25,
