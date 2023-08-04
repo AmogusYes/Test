@@ -104,8 +104,8 @@ War camp=={
 "1":{"Unit level":1,"Cooldown":20,"Cost":2750},
 "2":{"Unit level":2,"Cooldown":15,"Cost":750},
 "3":{"Unit level":3,"Cooldown":15,"Cost":5000},
-"4":{"Unit level":4,"Cooldown":10,"Cost":11000},
-"5":{"Unit level":5,"Cooldown":10,"Cost":37500}
+"4":{"Unit level":4,"Cooldown":10,"Cost":10000},
+"5":{"Unit level":5,"Cooldown":10,"Cost":40000}
 }-----
 Plasm=={
 "Level":25,
