@@ -114,7 +114,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":8,"Range":28,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":14,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":25,"Range":38,"Cost":8500},
-"5":{"AttackRate":0.09,"Damage":36,"Range":48,"Cost":18500}
+"5":{"AttackRate":0.09,"Damage":36,"Range":48,"Cost":19500}
 }-----
 Baller=={
 "Level":-1,
@@ -166,8 +166,8 @@ Thief=={
 "Limit":3,
 "1":{"Mult":25,"Cost":500,"Cash":0,"Damage":5,"Range":12,"AttackRate":1},
 "2":{"Mult":25,"Cost":275,"Cash":0,"Damage":7,"Range":12,"AttackRate":0.85},
-"3":{"Mult":50,"Cost":850,"Cash":0,"Damage":13,"Range":12,"AttackRate":0.8},
-"4":{"Mult":65,"Cost":1250,"Cash":0,"Damage":22,"Range":12,"AttackRate":0.65},
+"3":{"Mult":50,"Cost":850,"Cash":0,"Damage":12,"Range":12,"AttackRate":0.8},
+"4":{"Mult":55,"Cost":1250,"Cash":0,"Damage":21,"Range":12,"AttackRate":0.65},
 "5":{"Mult":115,"Cost":4500,"Cash":0,"Damage":35,"Range":13,"AttackRate":0.55}
 }-----
 Boxer=={
