@@ -69,7 +69,7 @@ Mortar=={
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":15,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":8000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":20000,"AOE":26,"Damage":350,"Range":60,"AttackRate":4.5}
+"5":{"Cost":19000,"AOE":26,"Damage":350,"Range":60,"AttackRate":4.5}
 }-----
 Pyramid=={
 "Level":0,
@@ -114,7 +114,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":8,"Range":28,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":14,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":25,"Range":38,"Cost":8500},
-"5":{"AttackRate":0.09,"Damage":36,"Range":48,"Cost":19500}
+"5":{"AttackRate":0.09,"Damage":37,"Range":48,"Cost":17500}
 }-----
 Baller=={
 "Level":-1,
@@ -155,11 +155,11 @@ Hunter=={
 Miner=={
 "Level":8,
 "Limit":4,
-"1":{"Mult":50,"Cost":300,"Cash":0},
-"2":{"Mult":100,"Cost":300,"Cash":0},
-"3":{"Mult":200,"Cost":750,"Cash":0},
-"4":{"Mult":400,"Cost":2000,"Cash":0},
-"5":{"Mult":800,"Cost":4200,"Cash":0}
+"1":{"Mult":60,"Cost":300,"Cash":0},
+"2":{"Mult":120,"Cost":300,"Cash":0},
+"3":{"Mult":245,"Cost":750,"Cash":0},
+"4":{"Mult":450,"Cost":2000,"Cash":0},
+"5":{"Mult":900,"Cost":4000,"Cash":0}
 }-----
 Thief=={
 "Level":13,
