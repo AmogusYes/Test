@@ -42,7 +42,8 @@ Gunner=={
 "2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
-"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.16}
+"5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.16},
+"6":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.16}
 }-----
 Freezer=={
 "Level":17,
@@ -60,7 +61,8 @@ Pistoler=={
 "2":{"Cost":180,"Damage":3,"Range":35,"AttackRate":1},
 "3":{"Cost":650,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":900,"Damage":8,"Range":40,"AttackRate":0.85},
-"5":{"Cost":1500,"Damage":12,"Range":45,"AttackRate":0.7}
+"5":{"Cost":1500,"Damage":12,"Range":45,"AttackRate":0.7},
+"6":{"Cost":2600,"Damage":20,"Range":50,"AttackRate":0.4}
 }-----
 Flamethrower=={
 "Level":0,
