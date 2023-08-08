@@ -1,4 +1,4 @@
-8Minigunner=={
+Minigunner=={
 "Level":15,
 "Limit":0,
 "1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1},
@@ -129,10 +129,10 @@ Sniper=={
 "Level":5,
 "Limit":0,
 "1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
-"2":{"Cost":400,"Damage":20,"Range":55,"AttackRate":4},
-"3":{"Cost":1400,"Damage":65,"Range":55,"AttackRate":3.5},
+"2":{"Cost":400,"Damage":20,"Range":50,"AttackRate":4},
+"3":{"Cost":1400,"Damage":65,"Range":50,"AttackRate":3.5},
 "4":{"Cost":2600,"Damage":95,"Range":65,"AttackRate":3},
-"5":{"Cost":6500,"Damage":150,"Range":75,"AttackRate":2.9}
+"5":{"Cost":5500,"Damage":150,"Range":75,"AttackRate":2.9}
 }-----
 Dead eye=={
 "Level":0,
