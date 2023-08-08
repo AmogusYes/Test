@@ -44,9 +44,9 @@ arrow=={"basehp":5000,"speed":24}
 Spawn2=={"basehp":4000,"speed":2.4}
 Spawn1=={"basehp":1200,"speed":3.5999999999999996}
 ConeHead=={"basehp":36750,"speed":3}
-M4A1 1=={"basehp":200,"speed":3}
-M4A1 2=={"basehp":400,"speed":3}
-Minigun=={"basehp":1000,"speed":2.4}
-Pistol 1=={"basehp":100,"speed":3.5999999999999996}
-Pistol 2=={"basehp":200,"speed":3.5999999999999996}
+M4A1 1=={"basehp":105,"speed":3}
+M4A1 2=={"basehp":195,"speed":3}
+Minigun=={"basehp":450,"speed":2.6}
+Pistol 1=={"basehp":25,"speed":3.5999999999999996}
+Pistol 2=={"basehp":45,"speed":3.5999999999999996}
 Crazy Minigun=={"basehp":33000,"speed":6}
