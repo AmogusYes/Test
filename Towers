@@ -5,7 +5,7 @@ Minigunner=={
 "2":{"Cost":450,"Damage":2,"Range":30,"AttackRate":0.1},
 "3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1},
 "4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1},
-"5":{"Cost":9500,"Damage":12,"Range":40,"AttackRate":0.1}
+"5":{"Cost":10500,"Damage":14,"Range":40,"AttackRate":0.1}
 }-----
 Dissolver=={
 "Level":0,
@@ -33,7 +33,7 @@ Shotgunner=={
 "2":{"Cost":300,"AOE":7,"AttackRate":2.6,"Range":16,"Damage":16},
 "3":{"Cost":1200,"Range":16,"Damage":15,"AOE":7,"AttackRate":1.5},
 "4":{"Cost":2600,"Range":20,"Damage":28,"AOE":7,"AttackRate":1.5},
-"5":{"Cost":6500,"Range":20,"Damage":65,"AOE":9,"AttackRate":1}
+"5":{"Cost":6000,"Range":20,"Damage":65,"AOE":9,"AttackRate":1}
 }-----
 Gunner=={
 "Level":3,
@@ -43,7 +43,7 @@ Gunner=={
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
 "5":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.16},
-"6":{"Cost":3600,"Damage":6,"Range":35,"AttackRate":0.16}
+"6":{"Cost":16000,"Damage":12,"Range":40,"AttackRate":0.09}
 }-----
 Freezer=={
 "Level":17,
@@ -62,7 +62,7 @@ Pistoler=={
 "3":{"Cost":650,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":900,"Damage":8,"Range":40,"AttackRate":0.85},
 "5":{"Cost":1500,"Damage":12,"Range":45,"AttackRate":0.7},
-"6":{"Cost":2600,"Damage":20,"Range":50,"AttackRate":0.4}
+"6":{"Cost":6600,"Damage":25,"Range":50,"AttackRate":0.35}
 }-----
 Flamethrower=={
 "Level":0,
