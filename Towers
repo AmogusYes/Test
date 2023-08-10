@@ -11,10 +11,10 @@ Dissolver=={
 "Level":0,
 "Limit":3,
 "1":{"Cost":700,"Damage":2,"Range":30,"AttackRate":2.5,"AOE":6,"TickRate":0.2,"PuddleTime":3},
-"2":{"Cost":450,"Damage":3,"Range":30,"AttackRate":2,"AOE":6,"TickRate":0.2,"PuddleTime":3},
-"3":{"Cost":1950,"Damage":6,"Range":35,"AttackRate":2,"AOE":6,"TickRate":0.2,"PuddleTime":4},
-"4":{"Cost":4000,"Damage":12,"Range":40,"AttackRate":2,"AOE":6,"TickRate":0.2,"PuddleTime":4},
-"5":{"Cost":13000,"Damage":24,"Range":40,"AttackRate":1.5,"AOE":6,"TickRate":0.15,"PuddleTime":5}
+"2":{"Cost":450,"Damage":3,"Range":30,"AttackRate":2.25"AOE":6,"TickRate":0.2,"PuddleTime":3},
+"3":{"Cost":2050,"Damage":6,"Range":35,"AttackRate":2,"AOE":6,"TickRate":0.15,"PuddleTime":4},
+"4":{"Cost":4500,"Damage":12,"Range":40,"AttackRate":2,"AOE":6,"TickRate":0.15,"PuddleTime":4},
+"5":{"Cost":15000,"Damage":24,"Range":40,"AttackRate":1.6,"AOE":6,"TickRate":0.15,"PuddleTime":5}
 }-----
 Repulsor=={
 "Diameter":3,
