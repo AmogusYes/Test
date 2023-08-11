@@ -10,7 +10,7 @@ Minigunner=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":700,"Damage":2,"Range":30,"AttackRate":2.5,"AOE":5,"TickRate":0.2,"PuddleTime":3},
+"1":{"Cost":900,"Damage":2,"Range":30,"AttackRate":2.5,"AOE":5,"TickRate":0.2,"PuddleTime":3},
 "2":{"Cost":450,"Damage":3,"Range":30,"AttackRate":2.25,"AOE":5,"TickRate":0.2,"PuddleTime":3},
 "3":{"Cost":2050,"Damage":8,"Range":35,"AttackRate":2,"AOE":5,"TickRate":0.2,"PuddleTime":4},
 "4":{"Cost":5500,"Damage":16,"Range":40,"AttackRate":2,"AOE":5,"TickRate":0.16,"PuddleTime":4},
