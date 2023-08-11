@@ -18,13 +18,13 @@ Dissolver=={
 }-----
 Repulsor=={
 "Diameter":3,
-"Level":50,
-"Limit":6,
+"Level":70,
+"Limit":5,
 "1":{"Burst":15,"Cost":5250,"Damage":100,"Range":40,"AttackRate":2.5},
 "2":{"Burst":25,"Cost":1500,"Damage":100,"Range":40,"AttackRate":2.5},
 "3":{"Burst":25,"Cost":7500,"Damage":175,"Range":40,"AttackRate":2},
-"4":{"Burst":40,"Cost":27500,"Damage":275,"Range":55,"AttackRate":1.75},
-"5":{"Burst":60,"Cost":53000,"Damage":400,"Range":70,"AttackRate":1.5}
+"4":{"Burst":40,"Cost":26000,"Damage":275,"Range":55,"AttackRate":1.75},
+"5":{"Burst":60,"Cost":52000,"Damage":425,"Range":70,"AttackRate":1.5}
 }-----
 Shotgunner=={
 "Level":10,
@@ -69,7 +69,7 @@ Flamethrower=={
 "Limit":2,
 "1":{"Cost":1100,"FireTime":3,"TickRate":0.3,"Damage":2,"Range":14,"AttackRate":0.3},
 "2":{"Cost":500,"FireTime":2.5,"TickRate":0.25,"Damage":3,"Range":14,"AttackRate":0.25},
-"3":{"Cost":1850,"FireTime":2,"TickRate":0.2,"Damage":8,"Range":16,"AttackRate":0.2},
+"3":{"Cost":1850,"FireTime":2,"TickRate":0.2,"Damage":6,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5500,"FireTime":1.5,"TickRate":0.15,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12000,"FireTime":1,"TickRate":0.10,"Damage":20,"Range":18,"AttackRate":0.1}
 }-----
@@ -125,7 +125,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":8,"Range":28,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":14,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":25,"Range":38,"Cost":8500},
-"5":{"AttackRate":0.09,"Damage":37,"Range":48,"Cost":18500}
+"5":{"AttackRate":0.1,"Damage":41,"Range":48,"Cost":19500}
 }-----
 Baller=={
 "Level":-1,
@@ -191,11 +191,11 @@ Boxer=={
 "5":{"Cost":1900,"Damage":45,"Range":11,"AttackRate":0.5}
 }-----
 Chainer=={
-"Level":65,
-"Limit":5,
+"Level":55,
+"Limit":6,
 "1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
 "2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
 "3":{"Chain length":4,"Chain range":6,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
-"4":{"Chain length":5,"Chain range":10,"Cost":19250,"AttackRate":3.5,"Range":50,"Damage":450},
-"5":{"Chain length":6,"Chain range":10,"Cost":40000,"AttackRate":3,"Range":60,"Damage":825}
+"4":{"Chain length":5,"Chain range":8,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":450},
+"5":{"Chain length":6,"Chain range":10,"Cost":35000,"AttackRate":2.8,"Range":60,"Damage":925}
 }
