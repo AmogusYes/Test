@@ -69,7 +69,7 @@ Flamethrower=={
 "Limit":2,
 "1":{"Cost":1100,"FireTime":3,"TickRate":0.3,"Damage":2,"Range":14,"AttackRate":0.3},
 "2":{"Cost":500,"FireTime":2.5,"TickRate":0.25,"Damage":3,"Range":14,"AttackRate":0.25},
-"3":{"Cost":1850,"FireTime":2,"TickRate":0.2,"Damage":6,"Range":16,"AttackRate":0.2},
+"3":{"Cost":1850,"FireTime":2,"TickRate":0.2,"Damage":8,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5500,"FireTime":1.5,"TickRate":0.15,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12000,"FireTime":1,"TickRate":0.10,"Damage":20,"Range":18,"AttackRate":0.1}
 }-----
