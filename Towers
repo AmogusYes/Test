@@ -14,7 +14,7 @@ Dissolver=={
 "2":{"Cost":450,"Damage":3,"Range":30,"AttackRate":2.25,"AOE":5,"TickRate":0.2,"PuddleTime":3},
 "3":{"Cost":2050,"Damage":8,"Range":35,"AttackRate":2,"AOE":5,"TickRate":0.2,"PuddleTime":4},
 "4":{"Cost":5500,"Damage":16,"Range":40,"AttackRate":2,"AOE":5,"TickRate":0.16,"PuddleTime":4},
-"5":{"Cost":15000,"Damage":26,"Range":40,"AttackRate":1.6,"AOE":6,"TickRate":0.16,"PuddleTime":5}
+"5":{"Cost":15000,"Damage":26,"Range":40,"AttackRate":1.75,"AOE":6,"TickRate":0.16,"PuddleTime":4.5}
 }-----
 Repulsor=={
 "Diameter":3,
