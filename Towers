@@ -110,7 +110,7 @@ Grave=={
 "5":{"Zombie level":5,"Cooldown":20,"Cost":18000}
 }-----
 War camp=={
-"Level":40,
+"Level":-1,
 "Limit":2,
 "1":{"Unit level":1,"Cooldown":35,"Cost":2800},
 "2":{"Unit level":2,"Cooldown":30,"Cost":1050},
