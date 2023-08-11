@@ -191,11 +191,11 @@ Boxer=={
 "5":{"Cost":1900,"Damage":45,"Range":11,"AttackRate":0.5}
 }-----
 Chainer=={
-"Level":70,
-"Limit":4,
+"Level":65,
+"Limit":5,
 "1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
 "2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
 "3":{"Chain length":4,"Chain range":6,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
-"4":{"Chain length":5,"Chain range":10,"Cost":21250,"AttackRate":3.25,"Range":50,"Damage":450},
-"5":{"Chain length":6,"Chain range":10,"Cost":55000,"AttackRate":3,"Range":60,"Damage":1125}
+"4":{"Chain length":5,"Chain range":10,"Cost":19250,"AttackRate":3.5,"Range":50,"Damage":450},
+"5":{"Chain length":6,"Chain range":10,"Cost":40000,"AttackRate":3,"Range":60,"Damage":825}
 }
