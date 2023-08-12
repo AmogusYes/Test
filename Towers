@@ -157,11 +157,11 @@ Dead eye=={
 Hunter=={
 "Level":0,
 "Limit":0,
-"1":{"Cost":300,"Damage":7,"Range":40,"AttackRate":3},
-"2":{"Cost":300,"Damage":10,"Range":60,"AttackRate":3},
-"3":{"Cost":750,"Damage":35,"Range":60,"AttackRate":2.5},
-"4":{"Cost":1500,"Damage":55,"Range":70,"AttackRate":2.5},
-"5":{"Cost":3750,"Damage":110,"Range":80,"AttackRate":2}
+"1":{"Cost":550,"Damage":6,"Range":30,"AttackRate":3},
+"2":{"Cost":650,"Damage":12,"Range":35,"AttackRate":3},
+"3":{"Cost":1550,"Damage":28,"Range":45,"AttackRate":2.5},
+"4":{"Cost":4500,"Damage":55,"Range":50,"AttackRate":2.5},
+"5":{"Cost":8550,"Damage":110,"Range":55,"AttackRate":2}
 }-----
 Miner=={
 "Level":8,
