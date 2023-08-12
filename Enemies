@@ -29,16 +29,16 @@ Summoner=={"basehp":2000,"speed":1.8999999999999998}
 Zombie=={"basehp":40,"speed":2.4}
 Speedy=={"basehp":8,"speed":6}
 Red soul=={"basehp":3000,"speed":2.4}
-Rusher=={"basehp":500,"speed":6.599999999999999}
+Rusher=={"basehp":500,"speed":6.999999999999999}
 Rusher boss=={"basehp":10000,"speed":4.8}
 Rusher boss-A=={"basehp":25000,"speed":3.5999999999999996}
 Rust=={"basehp":45000,"speed":1.2}
 Rusted=={"basehp":800,"speed":1.7999999999999998}
 Slow=={"basehp":50,"speed":2.4}
 Tough=={"basehp":200,"speed":3}
-Random=={"basehp":250,"speed":3.5999999999999996}
-Random2=={"basehp":500,"speed":3.5999999999999996}
-Random3=={"basehp":1000,"speed":3.5999999999999996}
+Random=={"basehp":300,"speed":3.5999999999999996}
+Random2=={"basehp":750,"speed":3.5999999999999996}
+Random3=={"basehp":1750,"speed":3.5999999999999996}
 Void=={"basehp":1000000,"speed":1.2}
 arrow=={"basehp":5000,"speed":24}
 Spawn2=={"basehp":4000,"speed":2.4}
