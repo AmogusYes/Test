@@ -5,7 +5,7 @@ Minigunner=={
 "2":{"Cost":450,"Damage":2,"Range":30,"AttackRate":0.1},
 "3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1},
 "4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1},
-"5":{"Cost":10500,"Damage":14,"Range":40,"AttackRate":0.1}
+"5":{"Cost":10000,"Damage":14,"Range":42,"AttackRate":0.1}
 }-----
 Dissolver=={
 "Level":0,
@@ -125,7 +125,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":8,"Range":28,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":14,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":25,"Range":38,"Cost":8500},
-"5":{"AttackRate":0.1,"Damage":41,"Range":48,"Cost":19500}
+"5":{"AttackRate":0.1,"Damage":41,"Range":48,"Cost":18000}
 }-----
 Baller=={
 "Level":-1,
