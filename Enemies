@@ -12,9 +12,9 @@ Chunk=={"basehp":2500,"speed":6}
 White soul=={"basehp":25000,"speed":3}
 Conehead zombie=={"basehp":220,"speed":2.4}
 Creature=={"basehp":50000,"speed":3}
-Defender=={"basehp":20000,"speed":2.2}
+Defender=={"basehp":20000,"speed":2.4}
 Despuktor=={"basehp":345345,"speed":2.8}
-Destroyer=={"basehp":140000,"speed":1.6}
+Destroyer=={"basehp":140000,"speed":1.9}
 Fiery=={"basehp":750,"speed":4.8}
 Football zombie=={"basehp":1100,"speed":4.8}
 Gargantuar=={"basehp":10000,"speed":1.7999999999999998}
@@ -30,8 +30,8 @@ Zombie=={"basehp":40,"speed":2.4}
 Speedy=={"basehp":8,"speed":6}
 Red soul=={"basehp":3000,"speed":2.4}
 Rusher=={"basehp":500,"speed":6.999999999999999}
-Rusher boss=={"basehp":10000,"speed":4.8}
-Rusher boss-A=={"basehp":25000,"speed":3.5999999999999996}
+Rusher boss=={"basehp":10000,"speed":4.9}
+Rusher boss-A=={"basehp":25000,"speed":3.9999999999999996}
 Rust=={"basehp":45000,"speed":1.2}
 Rusted=={"basehp":800,"speed":1.7999999999999998}
 Slow=={"basehp":50,"speed":2.4}
