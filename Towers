@@ -102,7 +102,7 @@ Robot=={
 }-----
 Grave=={
 "Level":0,
-"Limit":3,
+"Limit":2,
 "1":{"Zombie level":1,"Cooldown":10,"Cost":800},
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
