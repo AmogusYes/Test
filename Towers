@@ -43,7 +43,7 @@ Gunner=={
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
 "5":{"Cost":3200,"Damage":6,"Range":35,"AttackRate":0.15},
-"6":{"Cost":16000,"Damage":24,"Range":40,"AttackRate":0.1}
+"6":{"Cost":12800,"Damage":18,"Range":40,"AttackRate":0.1}
 }-----
 Freezer=={
 "Level":17,
@@ -51,18 +51,18 @@ Freezer=={
 "1":{"Damage":2,"AOE":7,"Cost":400,"SpeedDebuff":15,"DebuffTime":4,"Range":20,"AttackRate":3},
 "2":{"Damage":4,"AOE":7,"Cost":350,"SpeedDebuff":25,"DebuffTime":4,"Range":22,"AttackRate":2},
 "3":{"Damage":6,"AOE":7,"Cost":2000,"SpeedDebuff":35,"DebuffTime":5,"Range":25,"AttackRate":2},
-"4":{"Damage":8,"AOE":7,"Cost":4500,"SpeedDebuff":45,"DebuffTime":7,"Range":30,"AttackRate":2},
-"5":{"Damage":10,"AOE":9,"Cost":7500,"SpeedDebuff":55,"DebuffTime":9,"Range":30,"AttackRate":2}
+"4":{"Damage":8,"AOE":7,"Cost":3500,"SpeedDebuff":45,"DebuffTime":7,"Range":30,"AttackRate":2},
+"5":{"Damage":10,"AOE":9,"Cost":6500,"SpeedDebuff":55,"DebuffTime":9,"Range":30,"AttackRate":2}
 }-----
 Pistoler=={
 "Level":1,
 "Limit":0,
 "1":{"Cost":200,"Damage":2,"Range":25,"AttackRate":1},
-"2":{"Cost":180,"Damage":3,"Range":35,"AttackRate":1},
+"2":{"Cost":180,"Damage":3,"Range":30,"AttackRate":1},
 "3":{"Cost":650,"Damage":5,"Range":35,"AttackRate":0.85},
-"4":{"Cost":900,"Damage":8,"Range":40,"AttackRate":0.85},
-"5":{"Cost":1500,"Damage":12,"Range":45,"AttackRate":0.7},
-"6":{"Cost":6600,"Damage":36,"Range":50,"AttackRate":0.35}
+"4":{"Cost":900,"Damage":8,"Range":35,"AttackRate":0.85},
+"5":{"Cost":1500,"Damage":12,"Range":40,"AttackRate":0.7},
+"6":{"Cost":6000,"Damage":36,"Range":45,"AttackRate":0.5}
 }-----
 Flamethrower=={
 "Level":0,
@@ -103,11 +103,11 @@ Robot=={
 Grave=={
 "Level":0,
 "Limit":3,
-"1":{"Zombie level":1,"Cooldown":20,"Cost":750},
-"2":{"Zombie level":2,"Cooldown":20,"Cost":1250},
-"3":{"Zombie level":3,"Cooldown":20,"Cost":4000},
-"4":{"Zombie level":4,"Cooldown":20,"Cost":7000},
-"5":{"Zombie level":5,"Cooldown":20,"Cost":18000}
+"1":{"Zombie level":1,"Cooldown":10,"Cost":800},
+"2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
+"3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
+"4":{"Zombie level":4,"Cooldown":25,"Cost":8500},
+"5":{"Zombie level":5,"Cooldown":35,"Cost":30000}
 }-----
 War camp=={
 "Level":-1,
@@ -179,7 +179,7 @@ Thief=={
 "2":{"Mult":25,"Cost":275,"Cash":0,"Damage":7,"Range":12,"AttackRate":0.85},
 "3":{"Mult":50,"Cost":850,"Cash":0,"Damage":12,"Range":12,"AttackRate":0.8},
 "4":{"Mult":55,"Cost":1500,"Cash":0,"Damage":21,"Range":12,"AttackRate":0.6},
-"5":{"Mult":115,"Cost":4500,"Cash":0,"Damage":35,"Range":13,"AttackRate":0.6}
+"5":{"Mult":115,"Cost":4000,"Cash":0,"Damage":35,"Range":13,"AttackRate":0.6}
 }-----
 Boxer=={
 "Level":0,
