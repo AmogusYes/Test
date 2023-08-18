@@ -3,21 +3,21 @@ Big=={"basehp":450,"speed":2.4}
 Black soul=={"basehp":1500,"speed":3}
 Blue soul=={"basehp":1200,"speed":4.8}
 Bobux=={"basehp":9999,"speed":8.4}
-Bucket zombie=={"basehp":800,"speed":2.4}
+Bucket zombie=={"basehp":1000,"speed":2.1}
 Burnt=={"basehp":45,"speed":3.5999999999999996}
 Chain=={"basehp":600000,"speed":1}
 Chained=={"basehp":1200,"speed":2.4}
 Zapster=={"basehp":20000,"speed":6}
 Chunk=={"basehp":2500,"speed":6}
 White soul=={"basehp":25000,"speed":3}
-Conehead zombie=={"basehp":220,"speed":2.4}
+Conehead zombie=={"basehp":240,"speed":2.3}
 Creature=={"basehp":50000,"speed":3}
 Defender=={"basehp":20000,"speed":2.4}
 Despuktor=={"basehp":345345,"speed":2.8}
 Destroyer=={"basehp":140000,"speed":1.9}
 Fiery=={"basehp":750,"speed":4.8}
-Football zombie=={"basehp":1100,"speed":4.8}
-Gargantuar=={"basehp":10000,"speed":1.7999999999999998}
+Football zombie=={"basehp":2100,"speed":4}
+Gargantuar=={"basehp":80000,"speed":1.7999999999999998}
 Giant=={"basehp":6000,"speed":2.4}
 Giant-A=={"basehp":15000,"speed":1.7999999999999998}
 Glitch=={"basehp":3456,"speed":18}
@@ -29,7 +29,7 @@ Summoner=={"basehp":2000,"speed":1.8999999999999998}
 Zombie=={"basehp":40,"speed":2.4}
 Speedy=={"basehp":8,"speed":6}
 Red soul=={"basehp":3000,"speed":2.4}
-Rusher=={"basehp":500,"speed":6.999999999999999}
+Rusher=={"basehp":500,"speed":7.499999999999999}
 Rusher boss=={"basehp":10000,"speed":4.9}
 Rusher boss-A=={"basehp":25000,"speed":3.9999999999999996}
 Rust=={"basehp":45000,"speed":1.2}
