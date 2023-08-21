@@ -190,6 +190,15 @@ Boxer=={
 "4":{"Cost":1050,"Damage":18,"Range":11,"AttackRate":0.65},
 "5":{"Cost":2100,"Damage":30,"Range":11,"AttackRate":0.5}
 }-----
+Saitama=={
+"Level":0,,
+"Limit":0,
+"1":{"Cost":3500,"Damage":20,"Range":12,"AttackRate":2,"AOE":20},
+"2":{"Cost":325,"Damage":6,"Range":11,"AttackRate":0.8,"AOE":15},
+"3":{"Cost":600,"Damage":12,"Range":11,"AttackRate":0.7,"AOE":15},
+"4":{"Cost":1050,"Damage":18,"Range":11,"AttackRate":0.65,"AOE":15},
+"5":{"Cost":2100,"Damage":30,"Range":11,"AttackRate":0.5,"AOE":15}
+}-----
 Chainer=={
 "Level":55,
 "Limit":6,
