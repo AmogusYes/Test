@@ -159,9 +159,9 @@ Hunter=={
 "Limit":0,
 "1":{"Cost":300,"Damage":6,"Range":35,"AttackRate":2.75},
 "2":{"Cost":300,"Damage":12,"Range":40,"AttackRate":2.5},
-"3":{"Cost":1550,"Damage":28,"Range":50,"AttackRate":2.25},
-"4":{"Cost":3550,"Damage":55,"Range":55,"AttackRate":2.15},
-"5":{"Cost":6950,"Damage":110,"Range":60,"AttackRate":2.00}
+"3":{"Cost":1550,"Damage":30,"Range":50,"AttackRate":2.25},
+"4":{"Cost":3550,"Damage":65,"Range":55,"AttackRate":2.15},
+"5":{"Cost":6950,"Damage":135,"Range":60,"AttackRate":2.00}
 }-----
 Miner=={
 "Level":8,
