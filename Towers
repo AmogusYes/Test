@@ -17,7 +17,7 @@ Dissolver=={
 "5":{"Cost":15000,"Damage":32,"Range":30,"AttackRate":1.75,"Spread":1,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":4.75}
 }-----
 Repulsor=={
-"Diameter":3,
+"Diameter":4.5,
 "Level":70,
 "Limit":5,
 "1":{"Burst":15,"Cost":5250,"Damage":100,"Range":40,"AttackRate":2.5},
@@ -141,9 +141,9 @@ Sniper=={
 "Limit":0,
 "1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
 "2":{"Cost":400,"Damage":20,"Range":50,"AttackRate":4},
-"3":{"Cost":1400,"Damage":65,"Range":50,"AttackRate":3.5},
-"4":{"Cost":2600,"Damage":95,"Range":60,"AttackRate":3},
-"5":{"Cost":5500,"Damage":150,"Range":70,"AttackRate":2.9}
+"3":{"Cost":1400,"Damage":45,"Range":50,"AttackRate":3.5},
+"4":{"Cost":2600,"Damage":95,"Range":60,"AttackRate":3.2},
+"5":{"Cost":5500,"Damage":150,"Range":70,"AttackRate":3}
 }-----
 Dead eye=={
 "Level":0,
@@ -166,11 +166,11 @@ Hunter=={
 Miner=={
 "Level":8,
 "Limit":4,
-"1":{"Mult":55,"Cost":300,"Cash":0},
-"2":{"Mult":110,"Cost":300,"Cash":0},
-"3":{"Mult":220,"Cost":750,"Cash":0},
-"4":{"Mult":440,"Cost":2000,"Cash":0},
-"5":{"Mult":880,"Cost":4000,"Cash":0}
+"1":{"Mult":55,"Cost":330,"Cash":0},
+"2":{"Mult":110,"Cost":330,"Cash":0},
+"3":{"Mult":220,"Cost":825,"Cash":0},
+"4":{"Mult":440,"Cost":2200,"Cash":0},
+"5":{"Mult":880,"Cost":4400,"Cash":0}
 }-----
 Thief=={
 "Level":13,
@@ -179,7 +179,7 @@ Thief=={
 "2":{"Mult":25,"Cost":275,"Cash":0,"Damage":7,"Range":11,"AttackRate":0.85},
 "3":{"Mult":50,"Cost":850,"Cash":0,"Damage":12,"Range":11,"AttackRate":0.8},
 "4":{"Mult":55,"Cost":1500,"Cash":0,"Damage":21,"Range":11,"AttackRate":0.6},
-"5":{"Mult":115,"Cost":4000,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
+"5":{"Mult":110,"Cost":4000,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
 }-----
 Boxer=={
 "Level":0,
