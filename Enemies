@@ -16,7 +16,7 @@ Defender=={"basehp":20000,"speed":2.4}
 Despuktor=={"basehp":345345,"speed":2.8}
 Destroyer=={"basehp":140000,"speed":1.9}
 Fiery=={"basehp":750,"speed":4.8}
-Football zombie=={"basehp":2100,"speed":4}
+Football zombie=={"basehp":1250,"speed":4.2}
 Gargantuar=={"basehp":8000,"speed":1.7999999999999998}
 Giant=={"basehp":6000,"speed":2.4}
 Giant-A=={"basehp":15000,"speed":1.7999999999999998}
