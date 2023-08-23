@@ -125,7 +125,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":10,"Range":30,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":30,"Range":40,"Cost":11500},
-"5":{"AttackRate":0.1,"Damage":52,"Range":50,"Cost":22500}
+"5":{"AttackRate":0.1,"Damage":50,"Range":50,"Cost":22500}
 }-----
 Baller=={
 "Level":-1,
