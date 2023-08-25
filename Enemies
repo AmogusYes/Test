@@ -5,7 +5,7 @@ Blue soul=={"basehp":1200,"speed":4.8}
 Bobux=={"basehp":9999,"speed":8.4}
 Bucket zombie=={"basehp":1000,"speed":2.1}
 Burnt=={"basehp":45,"speed":3.5999999999999996}
-Chain=={"basehp":600000,"speed":1}
+Chain=={"basehp":350000,"speed":1.1}
 Chained=={"basehp":1200,"speed":2.4}
 Zapster=={"basehp":20000,"speed":6}
 Chunk=={"basehp":2500,"speed":6}
