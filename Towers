@@ -202,9 +202,9 @@ Saitama=={
 Chainer=={
 "Level":55,
 "Limit":6,
-"1":{"Chain length":3,"Chain range":6,"Cost":3750,"AttackRate":5,"Range":35,"Damage":50},
-"2":{"Chain length":3,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
-"3":{"Chain length":4,"Chain range":6,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
-"4":{"Chain length":5,"Chain range":8,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":475},
-"5":{"Chain length":6,"Chain range":10,"Cost":33500,"AttackRate":2.8,"Range":62,"Damage":975}
+"1":{"Chain length":2,"Chain range":6,"Cost":2750,"AttackRate":5,"Range":35,"Damage":50},
+"2":{"Chain length":2,"Chain range":6,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
+"3":{"Chain length":3,"Chain range":6,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
+"4":{"Chain length":4,"Chain range":8,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":475},
+"5":{"Chain length":5,"Chain range":10,"Cost":33500,"AttackRate":2.8,"Range":60,"Damage":925}
 }
