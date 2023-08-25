@@ -184,11 +184,11 @@ Thief=={
 Boxer=={
 "Level":0,
 "Limit":0,
-"1":{"Cost":280,"Damage":3,"Range":10,"AttackRate":1},
-"2":{"Cost":325,"Damage":6,"Range":10,"AttackRate":0.8},
-"3":{"Cost":600,"Damage":12,"Range":10,"AttackRate":0.7},
-"4":{"Cost":1050,"Damage":18,"Range":10,"AttackRate":0.65},
-"5":{"Cost":2100,"Damage":30,"Range":10,"AttackRate":0.5}
+"1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
+"2":{"Cost":255,"Damage":8,"Range":10,"AttackRate":0.8},
+"3":{"Cost":550,"Damage":13,"Range":10,"AttackRate":0.7},
+"4":{"Cost":1000,"Damage":20,"Range":10,"AttackRate":0.65},
+"5":{"Cost":2000,"Damage":32,"Range":10,"AttackRate":0.5}
 }-----
 Saitama=={
 "Level":0,,
