@@ -1,7 +1,7 @@
 Armor=={"basehp":135,"speed":2.4}
 Big=={"basehp":450,"speed":2.4}
-Black soul=={"basehp":1100,"speed":3}
-Blue soul=={"basehp":1100,"speed":4.8}
+Black soul=={"basehp":1000,"speed":3}
+Blue soul=={"basehp":1000,"speed":4.8}
 Bobux=={"basehp":9999,"speed":8.4}
 Bucket zombie=={"basehp":1000,"speed":2.1}
 Burnt=={"basehp":35,"speed":3.5999999999999996}
@@ -15,7 +15,7 @@ Creature=={"basehp":50000,"speed":3}
 Defender=={"basehp":20000,"speed":2.4}
 Despuktor=={"basehp":345345,"speed":2.8}
 Destroyer=={"basehp":140000,"speed":1.9}
-Fiery=={"basehp":850,"speed":4.8}
+Fiery=={"basehp":750,"speed":4.8}
 Football zombie=={"basehp":1250,"speed":4.2}
 Gargantuar=={"basehp":8000,"speed":1.7999999999999998}
 Giant=={"basehp":6000,"speed":2.4}
@@ -28,7 +28,7 @@ Normal=={"basehp":10,"speed":3}
 Summoner=={"basehp":2000,"speed":1.8999999999999998}
 Zombie=={"basehp":40,"speed":2.4}
 Speedy=={"basehp":8,"speed":6}
-Red soul=={"basehp":2750,"speed":2.4}
+Red soul=={"basehp":2600,"speed":2.4}
 Rusher=={"basehp":500,"speed":7.499999999999999}
 Rusher boss=={"basehp":10000,"speed":4.9}
 Rusher boss-A=={"basehp":25000,"speed":3.9999999999999996}
