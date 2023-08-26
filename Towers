@@ -23,7 +23,7 @@ Repulsor=={
 "1":{"Burst":15,"Cost":5250,"Damage":100,"Range":40,"AttackRate":2.5},
 "2":{"Burst":25,"Cost":1500,"Damage":100,"Range":40,"AttackRate":2.5},
 "3":{"Burst":25,"Cost":7500,"Damage":175,"Range":40,"AttackRate":2},
-"4":{"Burst":40,"Cost":26000,"Damage":275,"Range":55,"AttackRate":1.75},
+"4":{"Burst":40,"Cost":27500,"Damage":275,"Range":55,"AttackRate":1.75},
 "5":{"Burst":60,"Cost":55000,"Damage":400,"Range":70,"AttackRate":1.5}
 }-----
 Shotgunner=={
@@ -125,7 +125,7 @@ Plasm=={
 "2":{"AttackRate":0.2,"Damage":10,"Range":30,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":35,"Cost":3000},
 "4":{"AttackRate":0.15,"Damage":30,"Range":40,"Cost":11500},
-"5":{"AttackRate":0.1,"Damage":50,"Range":50,"Cost":22500}
+"5":{"AttackRate":0.1,"Damage":50,"Range":50,"Cost":20500}
 }-----
 Baller=={
 "Level":-1,
@@ -187,8 +187,8 @@ Boxer=={
 "1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
 "2":{"Cost":255,"Damage":8,"Range":10,"AttackRate":0.8},
 "3":{"Cost":550,"Damage":13,"Range":10,"AttackRate":0.7},
-"4":{"Cost":1000,"Damage":20,"Range":10,"AttackRate":0.65},
-"5":{"Cost":2000,"Damage":32,"Range":10,"AttackRate":0.5}
+"4":{"Cost":975,"Damage":20,"Range":10,"AttackRate":0.65},
+"5":{"Cost":1900,"Damage":32,"Range":10,"AttackRate":0.5}
 }-----
 Saitama=={
 "Level":0,,
