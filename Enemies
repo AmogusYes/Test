@@ -27,7 +27,7 @@ Lava=={"basehp":1000,"speed":3}
 Normal=={"basehp":10,"speed":3}
 Summoner=={"basehp":2000,"speed":1.8999999999999998}
 Zombie=={"basehp":40,"speed":2.4}
-Speedy=={"basehp":8,"speed":6}
+Speedy=={"basehp":10,"speed":6}
 Red soul=={"basehp":2600,"speed":2.4}
 Rusher=={"basehp":500,"speed":7.499999999999999}
 Rusher boss=={"basehp":10000,"speed":4.9}
