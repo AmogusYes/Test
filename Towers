@@ -17,7 +17,7 @@ Dissolver=={
 "5":{"Cost":15000,"Damage":32,"Range":30,"AttackRate":1.75,"Spread":1,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":4.75}
 }-----
 Repulsor=={
-"Diameter":4.5,
+"Diameter":3,
 "Level":70,
 "Limit":5,
 "1":{"Burst":15,"Cost":5250,"Damage":100,"Range":40,"AttackRate":2.5},
@@ -94,11 +94,11 @@ Pyramid=={
 Robot=={
 "Level":0,
 "Limit":2,
-"1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2250,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
+"1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2500,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
 "2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
 "3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":12,"Cost":15000,"Missile amount":6,"Damage":20,"Range":50,"AttackRate":0.15},
 "4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":14,"Cost":28500,"Missile amount":8,"Damage":30,"Range":60,"AttackRate":0.1},
-"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":50,"Range":60,"AttackRate":0.09}
+"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
 }-----
 Grave=={
 "Level":0,
@@ -152,7 +152,7 @@ Dead eye=={
 "2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
 "4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
-"5":{"Damage":85,"AttackRate":0.35,"Range":50,"Cost":20000}
+"5":{"Damage":85,"AttackRate":0.35,"Range":50,"Cost":17500}
 }-----
 Hunter=={
 "Level":0,
