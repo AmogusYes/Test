@@ -68,10 +68,10 @@ Flamethrower=={
 "Level":0,
 "Limit":2,
 "1":{"Cost":1100,"FireTime":3,"TickRate":0.6,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.3},
-"2":{"Cost":500,"FireTime":3,"TickRate":0.6,"FireDamage":2,"AOE":6,"Damage":3,"Range":14,"AttackRate":0.25},
-"3":{"Cost":1850,"FireTime":3.6,"TickRate":0.6,"FireDamage":6,"AOE":6,"Damage":8,"Range":16,"AttackRate":0.2},
-"4":{"Cost":5500,"FireTime":4.8,"TickRate":0.6,"FireDamage":12,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
-"5":{"Cost":12000,"FireTime":6,"TickRate":0.6,"FireDamage":20,"AOE":6,"Damage":20,"Range":18,"AttackRate":0.1}
+"2":{"Cost":500,"FireTime":3,"TickRate":0.6,"FireDamage":1,"AOE":6,"Damage":3,"Range":14,"AttackRate":0.25},
+"3":{"Cost":1850,"FireTime":3.6,"TickRate":0.6,"FireDamage":3,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
+"4":{"Cost":5500,"FireTime":4.8,"TickRate":0.6,"FireDamage":6,"AOE":6,"Damage":10,"Range":16,"AttackRate":0.15},
+"5":{"Cost":12000,"FireTime":6,"TickRate":0.6,"FireDamage":10,"AOE":6,"Damage":16,"Range":18,"AttackRate":0.1}
 }-----
 Mortar=={
 "Level":25,
@@ -87,9 +87,9 @@ Pyramid=={
 "Limit":1,
 "1":{"AttackRate buff":0,"Cost":2000,"Damage buff":0,"Range":18,"Range buff":5},
 "2":{"AttackRate buff":0,"Cost":800,"Damage buff":5,"Range":18,"Range buff":10},
-"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":5,"Range":20,"Range buff":10},
-"4":{"AttackRate buff":10,"Cost":9000,"Damage buff":10,"Range":20,"Range buff":10},
-"5":{"AttackRate buff":15,"Cost":16000,"Damage buff":15,"Range":22,"Range buff":15}
+"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":10,"Range":20,"Range buff":10},
+"4":{"AttackRate buff":10,"Cost":6000,"Damage buff":10,"Range":20,"Range buff":10},
+"5":{"AttackRate buff":20,"Cost":17000,"Damage buff":20,"Range":22,"Range buff":20}
 }-----
 Robot=={
 "Level":0,
@@ -107,7 +107,7 @@ Grave=={
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
 "4":{"Zombie level":4,"Cooldown":14,"Cost":8000},
-"5":{"Zombie level":5,"Cooldown":30,"Cost":30000}
+"5":{"Zombie level":5,"Cooldown":28,"Cost":30000}
 }-----
 War camp=={
 "Level":-1,
