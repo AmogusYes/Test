@@ -106,8 +106,8 @@ Grave=={
 "1":{"Zombie level":1,"Cooldown":10,"Cost":800},
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
-"4":{"Zombie level":4,"Cooldown":15,"Cost":8000},
-"5":{"Zombie level":5,"Cooldown":35,"Cost":30000}
+"4":{"Zombie level":4,"Cooldown":14,"Cost":8000},
+"5":{"Zombie level":5,"Cooldown":30,"Cost":30000}
 }-----
 War camp=={
 "Level":-1,
@@ -151,8 +151,8 @@ Dead eye=={
 "1":{"Damage":8,"AttackRate":0.75,"Range":35,"Cost":950},
 "2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
-"4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
-"5":{"Damage":85,"AttackRate":0.35,"Range":50,"Cost":17500}
+"4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":6000},
+"5":{"Damage":80,"AttackRate":0.35,"Range":50,"Cost":18500}
 }-----
 Hunter=={
 "Level":0,
