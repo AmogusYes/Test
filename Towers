@@ -10,11 +10,11 @@ Minigunner=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":850,"Damage":2,"Range":20,"AttackRate":2.5,"Spread":1.55,"FlyTime":0.54,"TickRate":0.18,"PuddleTime":3},
-"2":{"Cost":350,"Damage":3,"Range":20,"AttackRate":2.25,"Spread":1.45,"FlyTime":0.54,"TickRate":0.18,"PuddleTime":3},
-"3":{"Cost":2050,"Damage":8,"Range":25,"AttackRate":2,"Spread":1.25,"FlyTime":0.44,"TickRate":0.18,"PuddleTime":4},
-"4":{"Cost":5500,"Damage":16,"Range":30,"AttackRate":2,"Spread":1.1,"FlyTime":0.44,"TickRate":0.15,"PuddleTime":4.5},
-"5":{"Cost":16000,"Damage":32,"Range":30,"AttackRate":1.75,"Spread":1,"FlyTime":0.29,"TickRate":0.15,"PuddleTime":5.25}
+"1":{"Cost":850,"Damage":2,"Range":20,"AttackRate":2.5,"Spread":1.55,"FlyTime":0.53,"TickRate":0.18,"PuddleTime":3},
+"2":{"Cost":350,"Damage":3,"Range":20,"AttackRate":2.25,"Spread":1.45,"FlyTime":0.53,"TickRate":0.18,"PuddleTime":3},
+"3":{"Cost":2050,"Damage":8,"Range":25,"AttackRate":2,"Spread":1.25,"FlyTime":0.43,"TickRate":0.18,"PuddleTime":4},
+"4":{"Cost":5500,"Damage":16,"Range":30,"AttackRate":2,"Spread":1.1,"FlyTime":0.43,"TickRate":0.15,"PuddleTime":4.5},
+"5":{"Cost":16000,"Damage":32,"Range":30,"AttackRate":1.75,"Spread":1,"FlyTime":0.28,"TickRate":0.15,"PuddleTime":5.25}
 }-----
 Repulsor=={
 "Diameter":3,
