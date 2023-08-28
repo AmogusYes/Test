@@ -133,7 +133,7 @@ Baller=={
 "1":{"Cost":555,"Bounce":4,"Damage":4,"Range":25,"AttackRate":2},
 "2":{"Cost":1234,"Bounce":4,"Damage":10,"Range":30,"AttackRate":1.5},
 "3":{"Cost":7777,"Bounce":6,"Damage":50,"Range":35,"AttackRate":1.5},
-"4":{"Cost":12345,"Bounce":8,"Damage":100,"Range":35,"AttackRate":1},
+"4":{"Cost":17777,"Bounce":7,"Damage":100,"Range":35,"AttackRate":1},
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":420,"AttackRate":1}
 }-----
 Sniper=={
