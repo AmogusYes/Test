@@ -11,8 +11,8 @@ Zapster=={"basehp":20000,"speed":6}
 Chunk=={"basehp":2500,"speed":6}
 White soul=={"basehp":25000,"speed":3.1}
 Conehead zombie=={"basehp":240,"speed":2.3}
-Creature=={"basehp":50000,"speed":3}
-Defender=={"basehp":20000,"speed":2.4}
+Creature=={"basehp":50000,"speed":2.8}
+Defender=={"basehp":18000,"speed":2.4}
 Despuktor=={"basehp":345345,"speed":2.8}
 Destroyer=={"basehp":140000,"speed":1.9}
 Fiery=={"basehp":950,"speed":4.8}
