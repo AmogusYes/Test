@@ -24,7 +24,7 @@ Repulsor=={
 "2":{"Burst":25,"Cost":1500,"Damage":100,"Range":40,"AttackRate":2.5},
 "3":{"Burst":25,"Cost":7500,"Damage":175,"Range":40,"AttackRate":2},
 "4":{"Burst":40,"Cost":27500,"Damage":275,"Range":55,"AttackRate":1.75},
-"5":{"Burst":60,"Cost":55000,"Damage":400,"Range":70,"AttackRate":1.5}
+"5":{"Burst":60,"Cost":52000,"Damage":400,"Range":70,"AttackRate":1.5}
 }-----
 Shotgunner=={
 "Level":10,
@@ -85,19 +85,19 @@ Mortar=={
 Pyramid=={
 "Level":0,
 "Limit":1,
-"1":{"AttackRate buff":0,"Cost":2000,"Damage buff":0,"Range":22,"Range buff":5},
+"1":{"AttackRate buff":0,"Cost":1000,"Damage buff":0,"Range":22,"Range buff":5},
 "2":{"AttackRate buff":0,"Cost":800,"Damage buff":5,"Range":22,"Range buff":10},
 "3":{"AttackRate buff":5,"Cost":2000,"Damage buff":10,"Range":23,"Range buff":10},
 "4":{"AttackRate buff":10,"Cost":6000,"Damage buff":10,"Range":23,"Range buff":15},
-"5":{"AttackRate buff":15,"Cost":17000,"Damage buff":15,"Range":25,"Range buff":20}
+"5":{"AttackRate buff":15,"Cost":18000,"Damage buff":15,"Range":25,"Range buff":20}
 }-----
 Robot=={
 "Level":0,
 "Limit":2,
 "1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2500,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
 "2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
-"3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":12,"Cost":15000,"Missile amount":6,"Damage":20,"Range":50,"AttackRate":0.15},
-"4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":14,"Cost":28500,"Missile amount":8,"Damage":30,"Range":60,"AttackRate":0.1},
+"3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":11,"Cost":15000,"Missile amount":6,"Damage":20,"Range":50,"AttackRate":0.15},
+"4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":13,"Cost":28500,"Missile amount":8,"Damage":30,"Range":60,"AttackRate":0.1},
 "5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
 }-----
 Grave=={
