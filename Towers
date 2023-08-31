@@ -85,11 +85,11 @@ Mortar=={
 Pyramid=={
 "Level":0,
 "Limit":1,
-"1":{"AttackRate buff":0,"Cost":1000,"Damage buff":0,"Range":22,"Range buff":5},
-"2":{"AttackRate buff":0,"Cost":800,"Damage buff":5,"Range":22,"Range buff":10},
-"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":10,"Range":23,"Range buff":10},
-"4":{"AttackRate buff":10,"Cost":6000,"Damage buff":10,"Range":23,"Range buff":15},
-"5":{"AttackRate buff":15,"Cost":18000,"Damage buff":15,"Range":25,"Range buff":20}
+"1":{"AttackRate buff":0,"Cost":800,"Damage buff":0,"Range":21,"Range buff":5},
+"2":{"AttackRate buff":0,"Cost":1200,"Damage buff":5,"Range":21,"Range buff":10},
+"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":10,"Range":22,"Range buff":10},
+"4":{"AttackRate buff":10,"Cost":6000,"Damage buff":10,"Range":22,"Range buff":15},
+"5":{"AttackRate buff":15,"Cost":18000,"Damage buff":15,"Range":24,"Range buff":20}
 }-----
 Robot=={
 "Level":0,
