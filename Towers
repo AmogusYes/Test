@@ -161,7 +161,7 @@ Hunter=={
 "2":{"Cost":300,"Damage":12,"Range":40,"AttackRate":2.5},
 "3":{"Cost":1550,"Damage":30,"Range":50,"AttackRate":2.25},
 "4":{"Cost":3250,"Damage":65,"Range":55,"AttackRate":2.15},
-"5":{"Cost":6550,"Damage":135,"Range":60,"AttackRate":2.00}
+"5":{"Cost":6050,"Damage":125,"Range":60,"AttackRate":1.85}
 }-----
 Miner=={
 "Level":8,
