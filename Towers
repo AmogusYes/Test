@@ -68,10 +68,10 @@ Flamethrower=={
 "Level":0,
 "Limit":2,
 "1":{"Cost":750,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.3},
-"2":{"Cost":300,"FireTime":4,"TickRate":1,"FireDamage":2,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.25},
+"2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":2,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.25},
 "3":{"Cost":1850,"FireTime":4,"TickRate":1,"FireDamage":3,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
-"4":{"Cost":5000,"FireTime":7,"TickRate":1,"FireDamage":6,"AOE":6,"Damage":10,"Range":16,"AttackRate":0.15},
-"5":{"Cost":10000,"FireTime":9,"TickRate":1,"FireDamage":12,"AOE":6,"Damage":16,"Range":18,"AttackRate":0.1}
+"4":{"Cost":5000,"FireTime":7,"TickRate":1,"FireDamage":7,"AOE":6,"Damage":10,"Range":16,"AttackRate":0.15},
+"5":{"Cost":12000,"FireTime":10,"TickRate":1,"FireDamage":14,"AOE":6,"Damage":16,"Range":18,"AttackRate":0.1}
 }-----
 Mortar=={
 "Level":25,
@@ -151,7 +151,7 @@ Dead eye=={
 "1":{"Damage":8,"AttackRate":0.75,"Range":35,"Cost":950},
 "2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
-"4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":6000},
+"4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
 "5":{"Damage":80,"AttackRate":0.35,"Range":50,"Cost":18500}
 }-----
 Hunter=={
@@ -169,7 +169,7 @@ Miner=={
 "1":{"Mult":65,"Cost":300,"Cash":0},
 "2":{"Mult":140,"Cost":400,"Cash":0},
 "3":{"Mult":300,"Cost":850,"Cash":0},
-"4":{"Mult":700,"Cost":2200,"Cash":0},
+"4":{"Mult":680,"Cost":2200,"Cash":0},
 "5":{"Mult":1250,"Cost":4800,"Cash":0}
 }-----
 Thief=={
