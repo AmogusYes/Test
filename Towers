@@ -166,11 +166,11 @@ Hunter=={
 Miner=={
 "Level":8,
 "Limit":0,
-"1":{"Mult":65,"Cost":300,"Cash":0},
-"2":{"Mult":140,"Cost":400,"Cash":0},
-"3":{"Mult":300,"Cost":850,"Cash":0},
-"4":{"Mult":680,"Cost":2200,"Cash":0},
-"5":{"Mult":1250,"Cost":4800,"Cash":0}
+"1":{"Mult":100,"Cost":700,"Cash":0},
+"2":{"Mult":250,"Cost":850,"Cash":0},
+"3":{"Mult":600,"Cost":2200,"Cash":0},
+"4":{"Mult":1200,"Cost":5250,"Cash":0},
+"5":{"Mult":2500,"Cost":10000,"Cash":0}
 }-----
 Thief=={
 "Level":13,
