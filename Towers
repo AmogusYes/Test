@@ -9,12 +9,12 @@ Minigunner=={
 }-----
 Dissolver=={
 "Level":0,
-"Limit":3,
+"Limit":2,
 "1":{"Cost":850,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.18,"PuddleTime":3},
 "2":{"Cost":350,"Damage":3,"Range":20,"AttackRate":2.25,"FlyTime":0.5,"TickRate":0.18,"PuddleTime":3},
 "3":{"Cost":2050,"Damage":8,"Range":25,"AttackRate":2,"FlyTime":0.45,"TickRate":0.18,"PuddleTime":4},
-"4":{"Cost":5500,"Damage":20,"Range":30,"AttackRate":2,"FlyTime":0.3,"TickRate":0.18,"PuddleTime":4.5},
-"5":{"Cost":15000,"Damage":40,"Range":30,"AttackRate":1.7,"FlyTime":0.25,"TickRate":0.12,"PuddleTime":5.25}
+"4":{"Cost":5500,"Damage":18,"Range":30,"AttackRate":2,"FlyTime":0.3,"TickRate":0.18,"PuddleTime":4.5},
+"5":{"Cost":16000,"Damage":30,"Range":30,"AttackRate":1.8,"FlyTime":0.25,"TickRate":0.15,"PuddleTime":5.25}
 }-----
 Repulsor=={
 "Diameter":3,
