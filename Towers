@@ -79,8 +79,8 @@ Mortar=={
 "1":{"Cost":1000,"AOE":11,"Damage":12,"Range":40,"AttackRate":3},
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":15,"Damage":50,"Range":45,"AttackRate":3},
-"4":{"Cost":9000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":20000,"AOE":26,"Damage":425,"Range":60,"AttackRate":4.25}
+"4":{"Cost":8000,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
+"5":{"Cost":20500,"AOE":26,"Damage":425,"Range":60,"AttackRate":4.25}
 }-----
 Pyramid=={
 "Level":0,
