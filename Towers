@@ -69,8 +69,8 @@ Flamethrower=={
 "Limit":2,
 "1":{"Cost":750,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.3},
 "2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.3},
-"3":{"Cost":1850,"FireTime":4,"TickRate":1,"FireDamage":4,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
-"4":{"Cost":5000,"FireTime":7,"TickRate":1,"FireDamage":7,"AOE":6,"Damage":10,"Range":16,"AttackRate":0.15},
+"3":{"Cost":1850,"FireTime":6,"TickRate":1,"FireDamage":4,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
+"4":{"Cost":5000,"FireTime":8,"TickRate":1,"FireDamage":8,"AOE":6,"Damage":10,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12000,"FireTime":10,"TickRate":1,"FireDamage":12,"AOE":6,"Damage":16,"Range":18,"AttackRate":0.1}
 }-----
 Mortar=={
