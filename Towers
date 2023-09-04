@@ -166,8 +166,8 @@ Hunter=={
 Miner=={
 "Level":8,
 "Limit":0,
-"1":{"Mult":100,"Cost":800,"Cash":0},
-"2":{"Mult":200,"Cost":800,"Cash":0},
+"1":{"Mult":125,"Cost":1000,"Cash":0},
+"2":{"Mult":200,"Cost":600,"Cash":0},
 "3":{"Mult":450,"Cost":2000,"Cash":0},
 "4":{"Mult":1150,"Cost":5500,"Cash":0},
 "5":{"Mult":2400,"Cost":10000,"Cash":0}
