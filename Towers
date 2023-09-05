@@ -18,7 +18,7 @@ Dissolver=={
 }-----
 Repulsor=={
 "Diameter":3,
-"Level":70,
+"Level":65,
 "Limit":5,
 "1":{"Burst":15,"Cost":5250,"Damage":100,"Range":40,"AttackRate":2.5},
 "2":{"Burst":25,"Cost":1500,"Damage":100,"Range":40,"AttackRate":2.5},
