@@ -12,12 +12,12 @@ Chunk=={"basehp":2500,"speed":6}
 White soul=={"basehp":25000,"speed":3.1}
 Conehead zombie=={"basehp":240,"speed":2.3}
 Creature=={"basehp":50000,"speed":2.8}
-Defender=={"basehp":18000,"speed":2.4}
+Defender=={"basehp":18000,"speed":2.3}
 Despuktor=={"basehp":345345,"speed":2.8}
-Destroyer=={"basehp":140000,"speed":1.7}
+Destroyer=={"basehp":140000,"speed":1.8}
 Fiery=={"basehp":950,"speed":4.8}
 Football zombie=={"basehp":1250,"speed":4.2}
-Gargantuar=={"basehp":8000,"speed":1.7999999999999998}
+Gargantuar=={"basehp":10000,"speed":1.7999999999999998}
 Giant=={"basehp":6000,"speed":2.4}
 Giant-A=={"basehp":15000,"speed":1.7999999999999998}
 Glitch=={"basehp":4567,"speed":18}
