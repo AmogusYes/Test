@@ -10,11 +10,11 @@ Minigunner=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":1000,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":2.75},
-"2":{"Cost":350,"Damage":3,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":2.75},
-"3":{"Cost":2550,"Damage":10,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.2,"PuddleTime":3.5},
-"4":{"Cost":6000,"Damage":20,"Range":25,"AttackRate":2,"FlyTime":0.4,"TickRate":0.2,"PuddleTime":4.25},
-"5":{"Cost":17500,"Damage":30,"Range":30,"AttackRate":1.75,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":5}
+"1":{"Cost":800,"Damage":1,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
+"2":{"Cost":400,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
+"3":{"Cost":2550,"Damage":10,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.15,"PuddleTime":3},
+"4":{"Cost":6000,"Damage":20,"Range":25,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
+"5":{"Cost":15000,"Damage":40,"Range":30,"AttackRate":1.75,"FlyTime":0.35,"TickRate":0.12,"PuddleTime":3}
 }-----
 Repulsor=={
 "Diameter":3,
@@ -107,7 +107,7 @@ Grave=={
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
 "4":{"Zombie level":4,"Cooldown":15,"Cost":5500},
-"5":{"Zombie level":5,"Cooldown":30,"Cost":32000}
+"5":{"Zombie level":5,"Cooldown":30,"Cost":35000}
 }-----
 War camp=={
 "Level":-1,
