@@ -14,7 +14,7 @@ Conehead zombie=={"basehp":240,"speed":2.3}
 Creature=={"basehp":50000,"speed":2.8}
 Defender=={"basehp":18000,"speed":2.3}
 Despuktor=={"basehp":345345,"speed":2.8}
-Destroyer=={"basehp":140000,"speed":1.8}
+Destroyer=={"basehp":150000,"speed":1.7}
 Fiery=={"basehp":950,"speed":4.8}
 Football zombie=={"basehp":1100,"speed":4.8}
 Gargantuar=={"basehp":10000,"speed":1.7999999999999998}
@@ -25,7 +25,7 @@ Glowy=={"basehp":42424,"speed":2.4}
 Test-001=={"basehp":475000,"speed":0.8599999999999999}
 Lava=={"basehp":1200,"speed":3}
 Normal=={"basehp":10,"speed":3}
-Summoner=={"basehp":2000,"speed":1.8999999999999998}
+Summoner=={"basehp":2500,"speed":1.9}
 Zombie=={"basehp":40,"speed":2.4}
 Speedy=={"basehp":10,"speed":6}
 Red soul=={"basehp":2900,"speed":2.4}
