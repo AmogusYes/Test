@@ -121,10 +121,10 @@ War camp=={
 Plasm=={
 "Level":30,
 "Limit":8,
-"1":{"AttackRate":0.25,"Damage":10,"Range":25,"Cost":3000},
-"2":{"AttackRate":0.2,"Damage":10,"Range":30,"Cost":1000},
-"3":{"AttackRate":0.2,"Damage":15,"Range":35,"Cost":2500},
-"4":{"AttackRate":0.15,"Damage":30,"Range":40,"Cost":10500},
+"1":{"AttackRate":0.25,"Damage":10,"Range":30,"Cost":3000},
+"2":{"AttackRate":0.2,"Damage":10,"Range":35,"Cost":1000},
+"3":{"AttackRate":0.2,"Damage":15,"Range":40,"Cost":2500},
+"4":{"AttackRate":0.15,"Damage":33,"Range":40,"Cost":10500},
 "5":{"AttackRate":0.1,"Damage":55,"Range":50,"Cost":20500}
 }-----
 Baller=={
