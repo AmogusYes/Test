@@ -124,8 +124,8 @@ Plasm=={
 "1":{"AttackRate":0.25,"Damage":10,"Range":30,"Cost":3000},
 "2":{"AttackRate":0.2,"Damage":10,"Range":35,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":40,"Cost":2500},
-"4":{"AttackRate":0.15,"Damage":33,"Range":40,"Cost":10500},
-"5":{"AttackRate":0.1,"Damage":55,"Range":50,"Cost":20500}
+"4":{"AttackRate":0.15,"Damage":35,"Range":45,"Cost":9500},
+"5":{"AttackRate":0.12,"Damage":66,"Range":55,"Cost":22500}
 }-----
 Baller=={
 "Level":-1,
@@ -133,7 +133,7 @@ Baller=={
 "1":{"Cost":555,"Bounce":4,"Damage":4,"Range":25,"AttackRate":2},
 "2":{"Cost":1234,"Bounce":4,"Damage":10,"Range":30,"AttackRate":1.5},
 "3":{"Cost":7777,"Bounce":6,"Damage":50,"Range":35,"AttackRate":1.5},
-"4":{"Cost":17777,"Bounce":8,"Damage":100,"Range":35,"AttackRate":1},
+"4":{"Cost":12345,"Bounce":8,"Damage":100,"Range":35,"AttackRate":1},
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":420,"AttackRate":1}
 }-----
 Sniper=={
