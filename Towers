@@ -80,7 +80,7 @@ Mortar=={
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":14,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":9000,"AOE":14,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":20500,"AOE":26,"Damage":425,"Range":60,"AttackRate":4.5}
+"5":{"Cost":19000,"AOE":26,"Damage":425,"Range":60,"AttackRate":4.5}
 }-----
 Pyramid=={
 "Level":0,
@@ -142,8 +142,8 @@ Sniper=={
 "1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
 "2":{"Cost":400,"Damage":20,"Range":50,"AttackRate":4},
 "3":{"Cost":1400,"Damage":45,"Range":50,"AttackRate":3.5},
-"4":{"Cost":2600,"Damage":95,"Range":60,"AttackRate":3.2},
-"5":{"Cost":5500,"Damage":150,"Range":70,"AttackRate":3}
+"4":{"Cost":2400,"Damage":95,"Range":60,"AttackRate":3.2},
+"5":{"Cost":4800,"Damage":150,"Range":75,"AttackRate":2.9}
 }-----
 Dead eye=={
 "Level":0,
@@ -175,11 +175,11 @@ Miner=={
 Thief=={
 "Level":13,
 "Limit":3,
-"1":{"Mult":25,"Cost":500,"Cash":0,"Damage":5,"Range":11,"AttackRate":1},
-"2":{"Mult":25,"Cost":275,"Cash":0,"Damage":7,"Range":11,"AttackRate":0.85},
-"3":{"Mult":50,"Cost":850,"Cash":0,"Damage":12,"Range":11,"AttackRate":0.8},
-"4":{"Mult":55,"Cost":1500,"Cash":0,"Damage":21,"Range":11,"AttackRate":0.6},
-"5":{"Mult":110,"Cost":4000,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
+"1":{"Mult":35,"Cost":500,"Cash":0,"Damage":5,"Range":11,"AttackRate":1},
+"2":{"Mult":35,"Cost":275,"Cash":0,"Damage":7,"Range":11,"AttackRate":0.85},
+"3":{"Mult":70,"Cost":850,"Cash":0,"Damage":12,"Range":11,"AttackRate":0.8},
+"4":{"Mult":75,"Cost":1500,"Cash":0,"Damage":21,"Range":11,"AttackRate":0.6},
+"5":{"Mult":150,"Cost":4000,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
 }-----
 Boxer=={
 "Level":0,
