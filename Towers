@@ -10,10 +10,10 @@ Minigunner=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":850,"Damage":1,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
-"2":{"Cost":500,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
-"3":{"Cost":2550,"Damage":10,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.15,"PuddleTime":3},
-"4":{"Cost":6000,"Damage":20,"Range":25,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
+"1":{"Cost":850,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":3},
+"2":{"Cost":350,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
+"3":{"Cost":2100,"Damage":8,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.15,"PuddleTime":3},
+"4":{"Cost":6000,"Damage":16,"Range":25,"AttackRate":2.1,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
 "5":{"Cost":15000,"Damage":32,"Range":25,"AttackRate":1.75,"FlyTime":0.35,"TickRate":0.12,"PuddleTime":3}
 }-----
 Repulsor=={
@@ -80,7 +80,7 @@ Mortar=={
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":14,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":9000,"AOE":14,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":19000,"AOE":26,"Damage":425,"Range":60,"AttackRate":4.5}
+"5":{"Cost":19000,"AOE":25,"Damage":425,"Range":60,"AttackRate":4.5}
 }-----
 Pyramid=={
 "Level":0,
@@ -124,7 +124,7 @@ Plasm=={
 "1":{"AttackRate":0.25,"Damage":10,"Range":30,"Cost":3000},
 "2":{"AttackRate":0.2,"Damage":10,"Range":35,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":40,"Cost":2500},
-"4":{"AttackRate":0.15,"Damage":35,"Range":45,"Cost":9500},
+"4":{"AttackRate":0.15,"Damage":36,"Range":45,"Cost":9500},
 "5":{"AttackRate":0.12,"Damage":66,"Range":55,"Cost":21500}
 }-----
 Baller=={
