@@ -2,7 +2,7 @@ Armor=={"basehp":150,"speed":2.4}
 Big=={"basehp":500,"speed":2.3}
 Black soul=={"basehp":1350,"speed":3}
 Blue soul=={"basehp":1350,"speed":4.8}
-Bobux=={"basehp":17777,"speed":10}
+Bobux=={"basehp":17777,"speed":9}
 Bucket zombie=={"basehp":1000,"speed":2.4}
 Burnt=={"basehp":45,"speed":3.5999999999999996}
 Chain=={"basehp":350000,"speed":0.95}
@@ -13,7 +13,7 @@ White soul=={"basehp":25000,"speed":3.1}
 Conehead zombie=={"basehp":300,"speed":2.4}
 Creature=={"basehp":50000,"speed":2.8}
 Defender=={"basehp":17500,"speed":2.3}
-Despuktor=={"basehp":678901,"speed":3}
+Despuktor=={"basehp":678901,"speed":2.9}
 Destroyer=={"basehp":140000,"speed":1.6}
 Fiery=={"basehp":950,"speed":4.8}
 Football zombie=={"basehp":1500,"speed":5.2}
