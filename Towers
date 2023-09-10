@@ -67,8 +67,8 @@ Pistoler=={
 Flamethrower=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":700,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.25},
-"2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.25},
+"1":{"Cost":700,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
+"2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
 "3":{"Cost":1650,"FireTime":6,"TickRate":1,"FireDamage":2,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5000,"FireTime":8,"TickRate":1,"FireDamage":4,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12500,"FireTime":10,"TickRate":1,"FireDamage":6,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
@@ -80,7 +80,7 @@ Mortar=={
 "2":{"Cost":800,"AOE":11,"Damage":16,"Range":45,"AttackRate":3},
 "3":{"Cost":4000,"AOE":14,"Damage":50,"Range":45,"AttackRate":3},
 "4":{"Cost":9000,"AOE":14,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":19000,"AOE":25,"Damage":425,"Range":60,"AttackRate":4.5}
+"5":{"Cost":20000,"AOE":25,"Damage":425,"Range":60,"AttackRate":4.5}
 }-----
 Pyramid=={
 "Level":0,
@@ -98,7 +98,7 @@ Robot=={
 "2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
 "3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":11,"Cost":15000,"Missile amount":6,"Damage":22,"Range":50,"AttackRate":0.15},
 "4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":13,"Cost":28500,"Missile amount":8,"Damage":35,"Range":60,"AttackRate":0.1},
-"5":{"Missile damage":10,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
+"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
 }-----
 Grave=={
 "Level":0,
@@ -107,7 +107,7 @@ Grave=={
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
 "4":{"Zombie level":4,"Cooldown":15,"Cost":7500},
-"5":{"Zombie level":5,"Cooldown":35,"Cost":40000}
+"5":{"Zombie level":5,"Cooldown":40,"Cost":35000}
 }-----
 War camp=={
 "Level":-1,
@@ -152,7 +152,7 @@ Dead eye=={
 "2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1500},
 "4":{"Damage":40,"AttackRate":0.45,"Range":45,"Cost":5000},
-"5":{"Damage":80,"AttackRate":0.35,"Range":50,"Cost":18500}
+"5":{"Damage":80,"AttackRate":0.3,"Range":55,"Cost":18500}
 }-----
 Hunter=={
 "Level":0,
@@ -185,7 +185,7 @@ Boxer=={
 "Level":0,
 "Limit":0,
 "1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
-"2":{"Cost":255,"Damage":8,"Range":10,"AttackRate":0.7},
+"2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.8},
 "3":{"Cost":500,"Damage":13,"Range":10,"AttackRate":0.7},
 "4":{"Cost":1050,"Damage":20,"Range":10,"AttackRate":0.65},
 "5":{"Cost":2000,"Damage":32,"Range":10,"AttackRate":0.5},
