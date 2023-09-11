@@ -67,8 +67,8 @@ Pistoler=={
 Flamethrower=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":700,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
-"2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
+"1":{"Cost":650,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
+"2":{"Cost":600,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
 "3":{"Cost":1650,"FireTime":6,"TickRate":1,"FireDamage":2,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5000,"FireTime":8,"TickRate":1,"FireDamage":4,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12500,"FireTime":10,"TickRate":1,"FireDamage":6,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
@@ -89,11 +89,11 @@ Pyramid=={
 "2":{"AttackRate buff":0,"Cost":1200,"Damage buff":5,"Range":22,"Range buff":10},
 "3":{"AttackRate buff":5,"Cost":2000,"Damage buff":10,"Range":23,"Range buff":10},
 "4":{"AttackRate buff":10,"Cost":5000,"Damage buff":10,"Range":23,"Range buff":15},
-"5":{"AttackRate buff":15,"Cost":15000,"Damage buff":15,"Range":25,"Range buff":20}
+"5":{"AttackRate buff":15,"Cost":12000,"Damage buff":15,"Range":25,"Range buff":15}
 }-----
 Robot=={
 "Level":0,
-"Limit":2,
+"Limit":3,
 "1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2500,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
 "2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
 "3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":11,"Cost":15000,"Missile amount":6,"Damage":22,"Range":50,"AttackRate":0.15},
@@ -107,7 +107,7 @@ Grave=={
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
 "4":{"Zombie level":4,"Cooldown":15,"Cost":7500},
-"5":{"Zombie level":5,"Cooldown":40,"Cost":35000}
+"5":{"Zombie level":5,"Cooldown":40,"Cost":36000}
 }-----
 War camp=={
 "Level":-1,
@@ -124,8 +124,8 @@ Plasm=={
 "1":{"AttackRate":0.25,"Damage":10,"Range":30,"Cost":3000},
 "2":{"AttackRate":0.2,"Damage":10,"Range":35,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":40,"Cost":2500},
-"4":{"AttackRate":0.15,"Damage":36,"Range":45,"Cost":9500},
-"5":{"AttackRate":0.12,"Damage":66,"Range":55,"Cost":21500}
+"4":{"AttackRate":0.15,"Damage":36,"Range":45,"Cost":10000},
+"5":{"AttackRate":0.12,"Damage":61,"Range":55,"Cost":21500}
 }-----
 Baller=={
 "Level":-1,
@@ -177,15 +177,15 @@ Thief=={
 "Limit":3,
 "1":{"Mult":35,"Cost":500,"Cash":0,"Damage":5,"Range":11,"AttackRate":1},
 "2":{"Mult":35,"Cost":275,"Cash":0,"Damage":7,"Range":11,"AttackRate":0.85},
-"3":{"Mult":70,"Cost":850,"Cash":0,"Damage":12,"Range":11,"AttackRate":0.8},
+"3":{"Mult":70,"Cost":900,"Cash":0,"Damage":12,"Range":11,"AttackRate":0.8},
 "4":{"Mult":75,"Cost":1500,"Cash":0,"Damage":21,"Range":11,"AttackRate":0.6},
-"5":{"Mult":150,"Cost":4000,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
+"5":{"Mult":150,"Cost":4500,"Cash":0,"Damage":35,"Range":12,"AttackRate":0.6}
 }-----
 Boxer=={
 "Level":0,
 "Limit":0,
 "1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
-"2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.8},
+"2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.7},
 "3":{"Cost":500,"Damage":13,"Range":10,"AttackRate":0.7},
 "4":{"Cost":1050,"Damage":20,"Range":10,"AttackRate":0.65},
 "5":{"Cost":2000,"Damage":32,"Range":10,"AttackRate":0.5},
@@ -203,9 +203,9 @@ Saitama=={
 Chainer=={
 "Level":55,
 "Limit":6,
-"1":{"Chain length":2,"Chain range":8,"Cost":2750,"AttackRate":5,"Range":35,"Damage":50},
-"2":{"Chain length":2,"Chain range":8,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
-"3":{"Chain length":3,"Chain range":8,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
-"4":{"Chain length":4,"Chain range":10,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":450},
-"5":{"Chain length":5,"Chain range":12,"Cost":35000,"AttackRate":2.8,"Range":60,"Damage":900}
+"1":{"Chain length":3,"Chain range":7,"Cost":2750,"AttackRate":5,"Range":35,"Damage":50},
+"2":{"Chain length":3,"Chain range":7,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
+"3":{"Chain length":4,"Chain range":7,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
+"4":{"Chain length":5,"Chain range":9,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":450},
+"5":{"Chain length":6,"Chain range":11,"Cost":35000,"AttackRate":2.8,"Range":60,"Damage":900}
 }
