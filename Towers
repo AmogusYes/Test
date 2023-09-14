@@ -14,7 +14,7 @@ Ninja=={
 "2":{"Cost":200,"Damage":2,"Range":25,"AttackRate":0.8,"Pierce":4},
 "3":{"Cost":750,"Damage":5,"Range":30,"AttackRate":0.8,"Pierce":4},
 "4":{"Cost":5000,"Damage":20,"Range":30,"AttackRate":0.8,"Pierce":6},
-"5":{"Cost":11000,"Damage":30,"Range":40,"AttackRate":0.3,"Pierce":6},
+"5":{"Cost":11000,"Damage":30,"Range":40,"AttackRate":0.3,"Pierce":6}
 }-----
 Dissolver=={
 "Level":0,
