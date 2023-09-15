@@ -10,11 +10,11 @@ Minigunner=={
 Ninja=={
 "Level":0,
 "Limit":5,
-"1":{"Cost":300,"Damage":5,"Range":25,"AttackRate":1,"Pierce":3},
-"2":{"Cost":650,"Damage":6,"Range":25,"AttackRate":0.8,"Pierce":4},
-"3":{"Cost":1000,"Damage":12,"Range":30,"AttackRate":0.75,"Pierce":4},
-"4":{"Cost":4000,"Damage":20,"Range":30,"AttackRate":0.6,"Pierce":5},
-"5":{"Cost":7500,"Damage":35,"Range":40,"AttackRate":0.55,"Pierce":5}
+"1":{"Cost":400,"Damage":5,"Range":25,"AttackRate":1,"Pierce":3},
+"2":{"Cost":700,"Damage":6,"Range":25,"AttackRate":0.8,"Pierce":4},
+"3":{"Cost":1200,"Damage":15,"Range":30,"AttackRate":0.75,"Pierce":4},
+"4":{"Cost":5000,"Damage":25,"Range":30,"AttackRate":0.6,"Pierce":5},
+"5":{"Cost":8500,"Damage":45,"Range":40,"AttackRate":0.55,"Pierce":5}
 }-----
 Dissolver=={
 "Level":0,
