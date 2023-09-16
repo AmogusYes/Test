@@ -11,10 +11,10 @@ Ninja=={
 "Level":0,
 "Limit":5,
 "1":{"Cost":500,"Damage":4,"Range":25,"AttackRate":1,"Pierce":3},
-"2":{"Cost":750,"Damage":5,"Range":25,"AttackRate":0.8,"Pierce":4},
-"3":{"Cost":1550,"Damage":15,"Range":30,"AttackRate":0.7,"Pierce":4},
+"2":{"Cost":550,"Damage":5,"Range":25,"AttackRate":0.8,"Pierce":4},
+"3":{"Cost":1200,"Damage":12,"Range":30,"AttackRate":0.7,"Pierce":4},
 "4":{"Cost":5000,"Damage":20,"Range":30,"AttackRate":0.6,"Pierce":5},
-"5":{"Cost":10000,"Damage":35,"Range":40,"AttackRate":0.5,"Pierce":5}
+"5":{"Cost":9000,"Damage":35,"Range":40,"AttackRate":0.5,"Pierce":5}
 }-----
 Isaac=={
 "Level":-1,
