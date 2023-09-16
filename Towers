@@ -59,8 +59,8 @@ Gunner=={
 "1":{"Cost":350,"Damage":1,"Range":25,"AttackRate":0.3},
 "2":{"Cost":150,"Damage":1,"Range":25,"AttackRate":0.2},
 "3":{"Cost":500,"Damage":2,"Range":25,"AttackRate":0.2},
-"4":{"Cost":2000,"Damage":4,"Range":25,"AttackRate":0.2},
-"5":{"Cost":3800,"Damage":6,"Range":35,"AttackRate":0.15},
+"4":{"Cost":1500,"Damage":4,"Range":25,"AttackRate":0.2},
+"5":{"Cost":4300,"Damage":6,"Range":35,"AttackRate":0.15},
 "6":{"Cost":12800,"Damage":18,"Range":40,"AttackRate":0.1}
 }-----
 Freezer=={
@@ -69,8 +69,8 @@ Freezer=={
 "1":{"Damage":2,"AOE":7,"Cost":400,"SpeedDebuff":15,"DebuffTime":4,"Range":20,"AttackRate":3},
 "2":{"Damage":4,"AOE":7,"Cost":350,"SpeedDebuff":25,"DebuffTime":4,"Range":22,"AttackRate":2},
 "3":{"Damage":6,"AOE":7,"Cost":2000,"SpeedDebuff":35,"DebuffTime":5,"Range":25,"AttackRate":2},
-"4":{"Damage":8,"AOE":7,"Cost":3000,"SpeedDebuff":45,"DebuffTime":7,"Range":30,"AttackRate":2},
-"5":{"Damage":10,"AOE":9,"Cost":5000,"SpeedDebuff":60,"DebuffTime":9,"Range":30,"AttackRate":2}
+"4":{"Damage":8,"AOE":7,"Cost":3000,"SpeedDebuff":45,"DebuffTime":7,"Range":30,"AttackRate":1.75},
+"5":{"Damage":10,"AOE":9,"Cost":5000,"SpeedDebuff":60,"DebuffTime":8.5,"Range":30,"AttackRate":1.75}
 }-----
 Pistoler=={
 "Level":1,
@@ -80,7 +80,7 @@ Pistoler=={
 "3":{"Cost":650,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":900,"Damage":8,"Range":35,"AttackRate":0.85},
 "5":{"Cost":2000,"Damage":13,"Range":40,"AttackRate":0.7},
-"6":{"Cost":8000,"Damage":39,"Range":45,"AttackRate":0.35}
+"6":{"Cost":7250,"Damage":39,"Range":45,"AttackRate":0.35}
 }-----
 Flamethrower=={
 "Level":0,
@@ -124,7 +124,7 @@ Grave=={
 "1":{"Zombie level":1,"Cooldown":10,"Cost":800},
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
-"4":{"Zombie level":4,"Cooldown":15,"Cost":7500},
+"4":{"Zombie level":4,"Cooldown":20,"Cost":7500},
 "5":{"Zombie level":5,"Cooldown":40,"Cost":36000}
 }-----
 War camp=={
