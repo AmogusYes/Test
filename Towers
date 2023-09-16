@@ -4,8 +4,8 @@ Minigunner=={
 "1":{"Cost":2000,"Damage":2,"Range":25,"AttackRate":0.1},
 "2":{"Cost":450,"Damage":2,"Range":30,"AttackRate":0.1},
 "3":{"Cost":2400,"Damage":4,"Range":30,"AttackRate":0.1},
-"4":{"Cost":6500,"Damage":8,"Range":35,"AttackRate":0.1},
-"5":{"Cost":11500,"Damage":15,"Range":42,"AttackRate":0.09}
+"4":{"Cost":6000,"Damage":8,"Range":35,"AttackRate":0.1},
+"5":{"Cost":10000,"Damage":15,"Range":42,"AttackRate":0.09}
 }-----
 Ninja=={
 "Level":0,
@@ -85,8 +85,8 @@ Pistoler=={
 Flamethrower=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":650,"FireTime":3,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
-"2":{"Cost":600,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
+"1":{"Cost":650,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
+"2":{"Cost":500,"FireTime":4,"TickRate":1,"FireDamage":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
 "3":{"Cost":1650,"FireTime":6,"TickRate":1,"FireDamage":2,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
 "4":{"Cost":5000,"FireTime":8,"TickRate":1,"FireDamage":4,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
 "5":{"Cost":12500,"FireTime":10,"TickRate":1,"FireDamage":6,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
@@ -125,7 +125,7 @@ Grave=={
 "2":{"Zombie level":2,"Cooldown":15,"Cost":2500},
 "3":{"Zombie level":3,"Cooldown":20,"Cost":5200},
 "4":{"Zombie level":4,"Cooldown":25,"Cost":7500},
-"5":{"Zombie level":5,"Cooldown":40,"Cost":36000}
+"5":{"Zombie level":5,"Cooldown":40,"Cost":40000}
 }-----
 War camp=={
 "Level":-1,
@@ -142,8 +142,8 @@ Plasm=={
 "1":{"AttackRate":0.25,"Damage":10,"Range":30,"Cost":3000},
 "2":{"AttackRate":0.2,"Damage":10,"Range":35,"Cost":1000},
 "3":{"AttackRate":0.2,"Damage":15,"Range":40,"Cost":2500},
-"4":{"AttackRate":0.15,"Damage":36,"Range":45,"Cost":10000},
-"5":{"AttackRate":0.12,"Damage":61,"Range":55,"Cost":21500}
+"4":{"AttackRate":0.15,"Damage":36,"Range":45,"Cost":11000},
+"5":{"AttackRate":0.12,"Damage":61,"Range":55,"Cost":24000}
 }-----
 Baller=={
 "Level":-1,
