@@ -16,6 +16,15 @@ Ninja=={
 "4":{"Cost":5000,"Damage":20,"Range":30,"AttackRate":0.6,"Pierce":5},
 "5":{"Cost":9000,"Damage":35,"Range":40,"AttackRate":0.5,"Pierce":5}
 }-----
+Isaac=={
+"Level":-1,
+"Limit":3,
+"1":{"Cost":500,"Damage":4,"Range":25,"AttackRate":1,"Tears":1},
+"2":{"Cost":550,"Damage":5,"Range":25,"AttackRate":0.8,"Tears":2},
+"3":{"Cost":1200,"Damage":12,"Range":30,"AttackRate":0.7,"Tears":3},
+"4":{"Cost":5000,"Damage":20,"Range":30,"AttackRate":0.6,"Tears":4},
+"5":{"Cost":9000,"Damage":35,"Range":40,"AttackRate":0.5,"Tears":5}
+}-----
 Dissolver=={
 "Level":0,
 "Limit":2,
