@@ -19,11 +19,11 @@ Ninja=={
 Isaac=={
 "Level":-1,
 "Limit":3,
-"1":{"Cost":500,"Damage":4,"Range":25,"AttackRate":0.6,"Tears":1},
-"2":{"Cost":450,"Damage":8,"Range":25,"AttackRate":0.6,"Tears":1},
-"3":{"Cost":1400,"Damage":12,"Range":30,"AttackRate":0.55,"Tears":1},
-"4":{"Cost":3000,"Damage":20,"Range":30,"AttackRate":0.5,"Tears":1},
-"5":{"Cost":6500,"Damage":40,"Range":40,"AttackRate":0.45,"Tears":1}
+"1":{"Cost":500,"Damage":5,"Range":25,"AttackRate":0.6,"Tears":1},
+"2":{"Cost":500,"Damage":8,"Range":25,"AttackRate":0.5,"Tears":1},
+"3":{"Cost":1400,"Damage":12,"Range":30,"AttackRate":0.5,"Tears":1},
+"4":{"Cost":3000,"Damage":20,"Range":30,"AttackRate":0.45,"Tears":1},
+"5":{"Cost":7000,"Damage":45,"Range":40,"AttackRate":0.4,"Tears":1}
 }-----
 Dissolver=={
 "Level":0,
