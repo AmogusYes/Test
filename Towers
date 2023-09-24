@@ -37,8 +37,8 @@ Isaac=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":900,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":3},
-"2":{"Cost":400,"Damage":2,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
+"1":{"Cost":1050,"Damage":3,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":3},
+"2":{"Cost":400,"Damage":3,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
 "3":{"Cost":3000,"Damage":8,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.15,"PuddleTime":3},
 "4":{"Cost":7000,"Damage":16,"Range":25,"AttackRate":2.1,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
 "5":{"Cost":18000,"Damage":32,"Range":25,"AttackRate":1.75,"FlyTime":0.35,"TickRate":0.12,"PuddleTime":3}
