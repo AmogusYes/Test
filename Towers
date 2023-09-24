@@ -19,11 +19,11 @@ Ninja=={
 Wizard=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":1,"AOE":12,"Damage":20,"Range":35,"AttackRate":5},
-"2":{"Cost":1,"AOE":15,"Damage":50,"Range":35,"AttackRate":5},
-"3":{"Cost":1,"AOE":15,"Damage":100,"Range":45,"AttackRate":5},
-"4":{"Cost":1,"AOE":20,"Damage":200,"Range":45,"AttackRate":5},
-"5":{"Cost":1,"AOE":25,"Damage":500,"Range":55,"AttackRate":5}
+"1":{"Cost":1,"AOE":12,"Damage":20,"Range":35,"AttackRate":10},
+"2":{"Cost":1,"AOE":15,"Damage":50,"Range":35,"AttackRate":`10},
+"3":{"Cost":1,"AOE":15,"Damage":100,"Range":45,"AttackRate":10},
+"4":{"Cost":1,"AOE":20,"Damage":200,"Range":45,"AttackRate":10},
+"5":{"Cost":1,"AOE":25,"Damage":500,"Range":55,"AttackRate":10}
 }-----
 Isaac=={
 "Level":-1,
