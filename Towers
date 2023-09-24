@@ -20,7 +20,7 @@ Wizard=={
 "Level":0,
 "Limit":2,
 "1":{"Cost":1500,"AOE":12,"Damage":20,"Range":35,"AttackRate":10},
-"2":{"Cost":2500,"AOE":15,"Damage":50,"Range":35,"AttackRate":`10},
+"2":{"Cost":2500,"AOE":15,"Damage":50,"Range":35,"AttackRate":10},
 "3":{"Cost":5000,"AOE":15,"Damage":100,"Range":45,"AttackRate":10},
 "4":{"Cost":12500,"AOE":20,"Damage":200,"Range":45,"AttackRate":10},
 "5":{"Cost":30000,"AOE":25,"Damage":500,"Range":55,"AttackRate":10}
