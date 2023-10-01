@@ -25,11 +25,11 @@ Glowy=={"basehp":55555,"speed":3}
 Test-001=={"basehp":475000,"speed":0.85}
 Lava=={"basehp":1200,"speed":3}
 Normal=={"basehp":10,"speed":3}
-Summoner=={"basehp":2500,"speed":1.9}
+Summoner=={"basehp":3000,"speed":1.9}
 Zombie=={"basehp":50,"speed":2.4}
 Speedy=={"basehp":10,"speed":6}
 Red soul=={"basehp":2900,"speed":2.4}
-Rusher=={"basehp":500,"speed":8.5}
+Rusher=={"basehp":550,"speed":8.5}
 Rusher boss=={"basehp":10000,"speed":4.9}
 Rusher boss-A=={"basehp":20000,"speed":4}
 Rust=={"basehp":50000,"speed":1.4}
