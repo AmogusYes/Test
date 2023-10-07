@@ -39,7 +39,7 @@ Tough=={"basehp":200,"speed":3}
 Random=={"basehp":300,"speed":3.6}
 Random2=={"basehp":750,"speed":3.6}
 Random3=={"basehp":1750,"speed":3.6}
-Void=={"basehp":1000000,"speed":1.2}
+Void=={"basehp":90000,"speed":1}
 arrow=={"basehp":5000,"speed":24}
 Spawn2=={"basehp":4000,"speed":2.4}
 Spawn1=={"basehp":1200,"speed":3.6}
