@@ -95,11 +95,11 @@ Pistoler=={
 Flamethrower=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":650,"FireTime":4,"TickRate":1,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
-"2":{"Cost":500,"FireTime":4,"TickRate":1,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
-"3":{"Cost":1650,"FireTime":6,"TickRate":1,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
-"4":{"Cost":5000,"FireTime":8,"TickRate":1,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
-"5":{"Cost":12500,"FireTime":10,"TickRate":1,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
+"1":{"Cost":650,"FireTime":2,"TickRate":0.5,"AOE":6,"Damage":1,"Range":14,"AttackRate":0.20},
+"2":{"Cost":500,"FireTime":2,"TickRate":0.5,"AOE":6,"Damage":2,"Range":14,"AttackRate":0.20},
+"3":{"Cost":1650,"FireTime":3,"TickRate":0.5,"AOE":6,"Damage":6,"Range":16,"AttackRate":0.2},
+"4":{"Cost":5000,"FireTime":4,"TickRate":0.5,"AOE":6,"Damage":12,"Range":16,"AttackRate":0.15},
+"5":{"Cost":12500,"FireTime":5,"TickRate":0.5,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
 }-----
 Mortar=={
 "Level":25,
