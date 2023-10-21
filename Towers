@@ -90,7 +90,7 @@ Pistoler=={
 "3":{"Cost":650,"Damage":5,"Range":35,"AttackRate":0.85},
 "4":{"Cost":900,"Damage":8,"Range":35,"AttackRate":0.85},
 "5":{"Cost":2000,"Damage":13,"Range":40,"AttackRate":0.7},
-"6":{"Cost":7250,"Damage":39,"Range":45,"AttackRate":0.35}
+"6":{"Cost":7250,"Damage":30,"Range":45,"AttackRate":0.35}
 }-----
 Flamethrower=={
 "Level":0,
