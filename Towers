@@ -123,10 +123,10 @@ Robot=={
 "Level":0,
 "Limit":3,
 "1":{"Missile damage":0,"Missile cooldown":0,"Missile AOE":0,"Cost":2500,"Missile amount":0,"Damage":5,"Range":40,"AttackRate":0.2},
-"2":{"Missile damage":20,"Missile cooldown":6,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
-"3":{"Missile damage":40,"Missile cooldown":5.5,"Missile AOE":11,"Cost":15000,"Missile amount":6,"Damage":22,"Range":50,"AttackRate":0.15},
-"4":{"Missile damage":80,"Missile cooldown":5,"Missile AOE":13,"Cost":28500,"Missile amount":8,"Damage":35,"Range":60,"AttackRate":0.1},
-"5":{"Missile damage":100,"Missile cooldown":5,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
+"2":{"Missile damage":40,"Missile cooldown":12,"Missile AOE":10,"Cost":4500,"Missile amount":5,"Damage":5,"Range":40,"AttackRate":0.2},
+"3":{"Missile damage":80,"Missile cooldown":11,"Missile AOE":11,"Cost":15000,"Missile amount":6,"Damage":22,"Range":50,"AttackRate":0.15},
+"4":{"Missile damage":160,"Missile cooldown":10,"Missile AOE":13,"Cost":28500,"Missile amount":8,"Damage":35,"Range":60,"AttackRate":0.1},
+"5":{"Missile damage":200,"Missile cooldown":10,"Missile AOE":14,"Cost":41500,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
 }-----
 Grave=={
 "Level":0,
