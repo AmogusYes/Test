@@ -11,11 +11,11 @@ Ninja=={
 "Level":0,
 "Limit":3,
 "1":{"Cost":500,"Damage":3,"Range":25,"AttackRate":1,"Pierce":3},
-"2":{"Cost":600,"Damage":6,"Range":25,"AttackRate":0.8,"Pierce":3},
-"3":{"Cost":1500,"Damage":15,"Range":30,"AttackRate":0.7,"Pierce":4},
-"4":{"Cost":5500,"Damage":40,"Range":30,"AttackRate":0.6,"Pierce":4},
-"5":{"Cost":10000,"Damage":50,"Range":40,"AttackRate":0.25,"Pierce":5},
-"6":{"Cost":15000,"Damage":80,"Range":50,"AttackRate":0.25,"Pierce":5}
+"2":{"Cost":600,"Damage":5,"Range":25,"AttackRate":0.8,"Pierce":3},
+"3":{"Cost":1500,"Damage":11,"Range":30,"AttackRate":0.7,"Pierce":4},
+"4":{"Cost":5500,"Damage":30,"Range":30,"AttackRate":0.6,"Pierce":4},
+"5":{"Cost":15000,"Damage":40,"Range":40,"AttackRate":0.25,"Pierce":5},
+"6":{"Cost":25000,"Damage":100,"Range":50,"AttackRate":0.25,"Pierce":5}
 }-----
 Wizard=={
 "Level":0,
