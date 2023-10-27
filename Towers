@@ -181,7 +181,7 @@ Dead eye=={
 "3":{"Damage":14,"AttackRate":0.55,"Range":45,"Cost":1500},
 "4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5000},
 "5":{"Damage":70,"AttackRate":0.3,"Range":55,"Cost":18500},
-"6":{"Damage":125,"AttackRate":0.25,"Range":60,"Cost":30000}
+"6":{"Damage":130,"AttackRate":0.25,"Range":60,"Cost":30000}
 }-----
 Hunter=={
 "Level":0,
