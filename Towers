@@ -57,11 +57,12 @@ Repulsor=={
 Shotgunner=={
 "Level":10,
 "Limit":0,
-"1":{"Cost":500,"AOE":7,"AttackRate":2.8,"Range":16,"Damage":8},
-"2":{"Cost":300,"AOE":7,"AttackRate":2.6,"Range":16,"Damage":16},
-"3":{"Cost":1200,"Range":16,"Damage":16,"AOE":7,"AttackRate":1.5},
-"4":{"Cost":2600,"Range":20,"Damage":28,"AOE":7,"AttackRate":1.5},
-"5":{"Cost":5000,"Range":20,"Damage":65,"AOE":9,"AttackRate":1}
+"1":{"Cost":700,"AOE":5,"AttackRate":3,"Range":17,"Damage":10}, 
+"2":{"Cost":350,"AOE":7,"AttackRate":3,"Range":19,"Damage":13},
+"3":{"Cost":1200,"Range":20,"Damage":20,"AOE":7,"AttackRate":3.2},
+"4":{"Cost":3100,"Range":20,"Damage":40,"AOE":7,"AttackRate":3.2}, 
+"5":{"Cost":6200,"Range":25,"Damage":85,"AOE":10,"AttackRate":3} 
+
 }-----
 Gunner=={
 "Level":3,
@@ -181,7 +182,7 @@ Dead eye=={
 "3":{"Damage":15,"AttackRate":0.55,"Range":45,"Cost":1250},
 "4":{"Damage":35,"AttackRate":0.45,"Range":45,"Cost":5500},
 "5":{"Damage":80,"AttackRate":0.3,"Range":55,"Cost":18500},
-"6":{"Damage":140,"AttackRate":0.20,"Range":60,"Cost":30000}
+"6":{"Damage":130,"AttackRate":0.25,"Range":60,"Cost":30000}
 }-----
 Hunter=={
 "Level":0,
