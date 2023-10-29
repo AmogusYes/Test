@@ -57,11 +57,11 @@ Repulsor=={
 Shotgunner=={
 "Level":10,
 "Limit":4,
-"1":{"Cost":500,"AOE":5,"AttackRate":2.5,"Range":15,"Damage":8}, 
-"2":{"Cost":350,"AOE":5,"AttackRate":2,"Range":15,"Damage":12},
-"3":{"Cost":1500,"Range":18,"Damage":25,"AOE":7,"AttackRate":1.5},
-"4":{"Cost":3000,"Range":18,"Damage":40,"AOE":7,"AttackRate":1}, 
-"5":{"Cost":7000,"Range":20,"Damage":100,"AOE":9,"AttackRate":1}
+"1":{"Cost":850,"AOE":5,"AttackRate":2.5,"Range":20,"Damage":10}, 
+"2":{"Cost":1200,"AOE":5,"AttackRate":2,"Range":20,"Damage":20},
+"3":{"Cost":3250,"Range":22,"Damage":40,"AOE":7,"AttackRate":1.5},
+"4":{"Cost":6000,"Range":22,"Damage":60,"AOE":7,"AttackRate":1}, 
+"5":{"Cost":10000,"Range":25,"Damage":120,"AOE":9,"AttackRate":1}
 
 }-----
 Gunner=={
