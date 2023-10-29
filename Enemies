@@ -1,52 +1,81 @@
-Armor=={"basehp":150,"speed":2.4}
+Random2=={"basehp":750,"speed":3.6}
 Big=={"basehp":500,"speed":2.3}
-Black soul=={"basehp":1350,"speed":3}
-Blue soul=={"basehp":1350,"speed":4.8}
+Tough=={"basehp":200,"speed":3}
+Slow=={"basehp":50,"speed":2.4}
 Bobux=={"basehp":17777,"speed":9}
 Bucket zombie=={"basehp":1000,"speed":2.4}
-Burnt=={"basehp":45,"speed":3.6}
-Chain=={"basehp":350000,"speed":0.95}
-Chained=={"basehp":1400,"speed":2.4}
-Zapster=={"basehp":20000,"speed":6}
-Chunk=={"basehp":2500,"speed":6}
-White soul=={"basehp":25000,"speed":3.1}
-Conehead zombie=={"basehp":300,"speed":2.4}
-Creature=={"basehp":50000,"speed":2.8}
+Random3=={"basehp":1750,"speed":3.6}
+Skibidi toilet=={"basehp":999999,"speed":1}
 Defender=={"basehp":17500,"speed":2.3}
-Despuktor=={"basehp":678901,"speed":2.9}
+Zapster=={"basehp":20000,"speed":6}
+Chunk=={"basehp":60000,"speed":5}
+Rusher boss-A=={"basehp":20000,"speed":4}
+Conehead zombie=={"basehp":300,"speed":2.4}
+Creature=={"basehp":60000,"speed":3}
+Test-001=={"basehp":475000,"speed":0.85}
+Despuktor=={"basehp":678901,"speed":3}
 Destroyer=={"basehp":140000,"speed":1.6}
-Fiery=={"basehp":950,"speed":4.8}
+Rust=={"basehp":40000,"speed":1.2}
 Football zombie=={"basehp":1500,"speed":5.6}
 Gargantuar=={"basehp":15000,"speed":2}
 Giant=={"basehp":6000,"speed":2.4}
 Giant-A=={"basehp":15000,"speed":1.8}
 Glitch=={"basehp":7777,"speed":20}
 Glowy=={"basehp":55555,"speed":3}
-Test-001=={"basehp":475000,"speed":0.85}
-Lava=={"basehp":1200,"speed":3}
+Void=={"basehp":1000000,"speed":1.2}
+Rusted=={"basehp":1000,"speed":1.8}
 Normal=={"basehp":10,"speed":3}
-Summoner=={"basehp":3000,"speed":1.9}
+Summoner=={"basehp":2500,"speed":1.9}
 Zombie=={"basehp":50,"speed":2.4}
 Speedy=={"basehp":10,"speed":6}
-Red soul=={"basehp":2900,"speed":2.4}
-Rusher=={"basehp":550,"speed":8.5}
-Rusher boss=={"basehp":10000,"speed":4.9}
-Rusher boss-A=={"basehp":20000,"speed":4}
-Rust=={"basehp":50000,"speed":1.4}
-Rusted=={"basehp":800,"speed":1.8}
-Slow=={"basehp":50,"speed":2.4}
-Tough=={"basehp":200,"speed":3}
 Random=={"basehp":300,"speed":3.6}
-Random2=={"basehp":750,"speed":3.6}
-Random3=={"basehp":1750,"speed":3.6}
-Void=={"basehp":90000,"speed":1}
-arrow=={"basehp":5000,"speed":24}
-Spawn2=={"basehp":4000,"speed":2.4}
-Spawn1=={"basehp":1200,"speed":3.6}
-ConeHead=={"basehp":36750,"speed":3}
+Rusher=={"basehp":500,"speed":8.5}
+Rusher boss=={"basehp":10000,"speed":4.9}
+Police car=={"basehp":25000,"speed":10}
 M4A1 1=={"basehp":105,"speed":3}
 M4A1 2=={"basehp":195,"speed":3}
-Minigun=={"basehp":450,"speed":2.6}
+Juggernaut=={"basehp":1000,"speed":2.4}
 Pistol 1=={"basehp":25,"speed":3.6}
 Pistol 2=={"basehp":45,"speed":3.5}
 Crazy Minigun=={"basehp":33000,"speed":6}
+Chain=={"basehp":220000,"speed":1}
+Chained=={"basehp":2000,"speed":2.4}
+Burnt=={"basehp":45,"speed":3.6}
+Armor=={"basehp":220,"speed":2.4}
+Red soul=={"basehp":4000,"speed":2.4}
+Black soul=={"basehp":1800,"speed":3}
+Blue soul=={"basehp":1800,"speed":4.8}
+Lava=={"basehp":1700,"speed":3}
+Fiery=={"basehp":1300,"speed":4.8}
+White soul=={"basehp":33000,"speed":3}
+Melting=={"basehp":15000,"speed":3}
+Furnace=={"basehp":75000,"speed":2.5}
+Igneos=={"basehp":1000000,"speed":0.85}
+Spawn2=={"basehp":4000,"speed":2.4}
+Spawn1=={"basehp":1200,"speed":3.6}
+ConeHead=={"basehp":36750,"speed":3}
+Creature1=={"basehp":50000,"speed":2.8}
+Zapster1=={"basehp":20000,"speed":6}
+arrow=={"basehp":5000,"speed":24}
+Placeholder=={"basehp":100,"speed":3}
+V-1old=={"basehp":80,"speed":1.5}
+V-1old2=={"basehp":80,"speed":1.5}
+V-2old=={"basehp":500,"speed":1}
+V-3old=={"basehp":6000,"speed":0.8}
+V-4old=={"basehp":2750,"speed":1}
+V-5old=={"basehp":50000,"speed":0.7}
+Igneos2=={"basehp":1000000,"speed":0.8}
+Furnace2=={"basehp":50000,"speed":1.5}
+Melting2=={"basehp":10000,"speed":2.5}
+V-2=={"basehp":500,"speed":1.2}
+V-3=={"basehp":4500,"speed":1}
+V-4=={"basehp":2500,"speed":1.2}
+V-5=={"basehp":60000,"speed":1}
+V-1=={"basehp":80,"speed":1.8}
+Skeleton=={"basehp":150,"speed":3}
+Meat=={"basehp":4000,"speed":1}
+Vampire=={"basehp":1000,"speed":2.5}
+bat=={"basehp":200,"speed":11}
+Fast skeleton=={"basehp":200,"speed":6}
+Metal skeleton=={"basehp":2000,"speed":3}
+Pumpkin=={"basehp":1000000000,"speed":0.5}
