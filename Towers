@@ -181,7 +181,7 @@ Dead eye=={
 "3":{"Damage":11,"AttackRate":0.55,"Range":45,"Cost":1250},
 "4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5500},
 "5":{"Damage":75,"AttackRate":0.35,"Range":55,"Cost":18500},
-"6":{"Damage":160,"AttackRate":0.35,"Range":60,"Cost":30000}
+"6":{"Damage":160,"AttackRate":0.5,"Range":60,"Cost":30000}
 }-----
 Hunter=={
 "Level":0,
@@ -231,10 +231,10 @@ Saitama=={
 }-----
 Chainer=={
 "Level":55,
-"Limit":6,
-"1":{"Chain length":3,"Chain range":7,"Cost":2750,"AttackRate":5,"Range":35,"Damage":50},
-"2":{"Chain length":3,"Chain range":7,"Cost":2500,"AttackRate":4,"Range":42,"Damage":75},
-"3":{"Chain length":4,"Chain range":7,"Cost":6500,"AttackRate":3.5,"Range":42,"Damage":150},
-"4":{"Chain length":5,"Chain range":9,"Cost":17250,"AttackRate":3.2,"Range":50,"Damage":450},
-"5":{"Chain length":6,"Chain range":11,"Cost":35000,"AttackRate":2.8,"Range":60,"Damage":900}
+"Limit":5,
+"1":{"Chain length":4,"Chain range":8,"Cost":2750,"AttackRate":5,"Range":40,"Damage":75},
+"2":{"Chain length":4,"Chain range":8,"Cost":1950,"AttackRate":4.5,"Range":45,"Damage":125},
+"3":{"Chain length":5,"Chain range":8,"Cost":6500,"AttackRate":4,"Range":45,"Damage":225},
+"4":{"Chain length":6,"Chain range":10,"Cost":14250,"AttackRate":3.7,"Range":50,"Damage":500},
+"5":{"Chain length":7,"Chain range":12,"Cost":35000,"AttackRate":3.2,"Range":60,"Damage":975}
 }
