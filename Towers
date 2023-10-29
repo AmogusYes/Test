@@ -176,7 +176,7 @@ Sniper=={
 Dead eye=={
 "Level":0,
 "Limit":14,
-"1":{"Damage":5,"AttackRate":0.75,"Range":35,"Cost":950},
+"1":{"Damage":5,"AttackRate":0.75,"Range":35,"Cost":1150},
 "2":{"Damage":7,"AttackRate":0.65,"Range":35,"Cost":450},
 "3":{"Damage":11,"AttackRate":0.55,"Range":45,"Cost":1250},
 "4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5500},
