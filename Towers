@@ -60,8 +60,8 @@ Shotgunner=={
 "1":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":5}, 
 "2":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":10},
 "3":{"Cost":1650,"Range":20,"Damage":20,"AOE":7,"AttackRate":1.5},
-"4":{"Cost":2500,"Range":20,"Damage":40,"AOE":7,"AttackRate":1.5}, 
-"5":{"Cost":10000,"Range":22,"Damage":80,"AOE":9,"AttackRate":1}
+"4":{"Cost":3200,"Range":20,"Damage":45,"AOE":8,"AttackRate":1.5}, 
+"5":{"Cost":9000,"Range":23,"Damage":90,"AOE":10,"AttackRate":1.2}
 }-----
 Gunner=={
 "Level":3,
