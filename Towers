@@ -104,11 +104,11 @@ Flamethrower=={
 Mortar=={
 "Level":25,
 "Limit":5,
-"1":{"Cost":1700,"AOE":11,"Damage":8,"Range":40,"AttackRate":3},
-"2":{"Cost":1200,"AOE":11,"Damage":14,"Range":45,"AttackRate":3.2},
-"3":{"Cost":5500,"AOE":14,"Damage":45,"Range":45,"AttackRate":3.5},
-"4":{"Cost":12000,"AOE":18,"Damage":135,"Range":50,"AttackRate":3.5},
-"5":{"Cost":28500,"AOE":22,"Damage":425,"Range":57,"AttackRate":4.5}
+"1":{"Cost":1700,"AOE":11,"Damage":10,"Range":40,"AttackRate":3},
+"2":{"Cost":1200,"AOE":12,"Damage":16,"Range":45,"AttackRate":3.1},
+"3":{"Cost":5300,"AOE":14,"Damage":55,"Range":45,"AttackRate":3.5},
+"4":{"Cost":11525,"AOE":18,"Damage":155,"Range":50,"AttackRate":3.5},
+"5":{"Cost":28500,"AOE":23,"Damage":500,"Range":57,"AttackRate":4.5}
 }-----
 Pyramid=={
 "Level":0,
@@ -203,7 +203,7 @@ Miner=={
 }-----
 Thief=={
 "Level":13,
-"Limit":3,
+"Limit":4,
 "1":{"Cost":500,"Cash":35,"Damage":5,"Range":11,"AttackRate":1},
 "2":{"Cost":275,"Cash":45,"Damage":7,"Range":11,"AttackRate":0.85},
 "3":{"Cost":900,"Cash":75,"Damage":12,"Range":11,"AttackRate":0.8},
@@ -217,7 +217,7 @@ Boxer=={
 "2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.7},
 "3":{"Cost":500,"Damage":13,"Range":10,"AttackRate":0.7},
 "4":{"Cost":1050,"Damage":20,"Range":10,"AttackRate":0.65},
-"5":{"Cost":2000,"Damage":32,"Range":10,"AttackRate":0.5},
+"5":{"Cost":2000,"Damage":30,"Range":10,"AttackRate":0.5},
 "6":{"Cost":6000,"Damage":50,"Range":10,"AttackRate":0.5}
 }-----
 Saitama=={
