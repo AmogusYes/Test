@@ -38,11 +38,11 @@ Isaac=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":1050,"Damage":3,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.2,"PuddleTime":3},
-"2":{"Cost":400,"Damage":3,"Range":20,"AttackRate":2.5,"FlyTime":0.6,"TickRate":0.15,"PuddleTime":3},
-"3":{"Cost":3000,"Damage":8,"Range":25,"AttackRate":2.25,"FlyTime":0.55,"TickRate":0.15,"PuddleTime":3},
-"4":{"Cost":7000,"Damage":16,"Range":25,"AttackRate":2.1,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
-"5":{"Cost":18000,"Damage":32,"Range":25,"AttackRate":1.75,"FlyTime":0.35,"TickRate":0.12,"PuddleTime":3}
+"1":{"Cost":900,"Damage":2,"Range":18,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.2,"PuddleTime":3},
+"2":{"Cost":1900,"Damage":4,"Range":18,"AttackRate":2.25,"FlyTime":0.45,"TickRate":0.18,"PuddleTime":3},
+"3":{"Cost":2400,"Damage":8,"Range":19,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
+"4":{"Cost":6500,"Damage":10,"Range":20,"AttackRate":2,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":4},
+"5":{"Cost":16500,"Damage":20,"Range":20,"AttackRate":1.5,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":5}
 }-----
 Repulsor=={
 "Diameter":3,
@@ -60,8 +60,8 @@ Shotgunner=={
 "1":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":5}, 
 "2":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":10},
 "3":{"Cost":1650,"Range":20,"Damage":20,"AOE":7,"AttackRate":1.5},
-"4":{"Cost":3200,"Range":20,"Damage":45,"AOE":8,"AttackRate":1.5}, 
-"5":{"Cost":9000,"Range":23,"Damage":90,"AOE":10,"AttackRate":1.2}
+"4":{"Cost":2500,"Range":20,"Damage":40,"AOE":9,"AttackRate":1.5}, 
+"5":{"Cost":10000,"Range":22,"Damage":80,"AOE":9,"AttackRate":1}
 }-----
 Gunner=={
 "Level":3,
