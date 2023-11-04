@@ -1,10 +1,10 @@
-Random2=={"basehp":750,"speed":3.6}
+Random2=={"basehp":975,"speed":3.6}
 Big=={"basehp":500,"speed":2.3}
 Tough=={"basehp":200,"speed":3}
 Slow=={"basehp":50,"speed":2.4}
 Bobux=={"basehp":17777,"speed":9}
 Bucket zombie=={"basehp":1000,"speed":2.4}
-Random3=={"basehp":1750,"speed":3.6}
+Random3=={"basehp":2100,"speed":3.6}
 Skibidi toilet=={"basehp":999999,"speed":1}
 Defender=={"basehp":17500,"speed":2.3}
 Zapster=={"basehp":20000,"speed":6}
@@ -28,7 +28,7 @@ Normal=={"basehp":10,"speed":3}
 Summoner=={"basehp":2500,"speed":1.9}
 Zombie=={"basehp":50,"speed":2.4}
 Speedy=={"basehp":10,"speed":6}
-Random=={"basehp":300,"speed":3.6}
+Random=={"basehp":450,"speed":3.6}
 Rusher=={"basehp":500,"speed":8.5}
 Rusher boss=={"basehp":10000,"speed":4.9}
 Police car=={"basehp":25000,"speed":10}
