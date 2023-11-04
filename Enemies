@@ -6,7 +6,7 @@ Bobux=={"basehp":17777,"speed":9}
 Bucket zombie=={"basehp":1000,"speed":2.4}
 Random3=={"basehp":2100,"speed":3.6}
 Skibidi toilet=={"basehp":999999,"speed":1}
-Defender=={"basehp":17500,"speed":2.3}
+Defender=={"basehp":18500,"speed":2.3}
 Zapster=={"basehp":20000,"speed":6}
 Chunk=={"basehp":60000,"speed":5}
 Rusher boss-A=={"basehp":20000,"speed":4}
