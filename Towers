@@ -151,9 +151,9 @@ Plasm=={
 "Limit":8,
 "1":{"AttackRate":0.22,"Damage":10,"Range":30,"Cost":2700},
 "2":{"AttackRate":0.17,"Damage":10,"Range":35,"Cost":875},
-"3":{"AttackRate":0.17,"Damage":15,"Range":40,"Cost":2000},
-"4":{"AttackRate":0.13,"Damage":35,"Range":45,"Cost":11000},
-"5":{"AttackRate":0.1,"Damage":60,"Range":55,"Cost":22700}
+"3":{"AttackRate":0.17,"Damage":20,"Range":40,"Cost":2500},
+"4":{"AttackRate":0.13,"Damage":40,"Range":45,"Cost":10000},
+"5":{"AttackRate":0.1,"Damage":65,"Range":55,"Cost":21250}
 }-----
 Baller=={
 "Level":-1,
