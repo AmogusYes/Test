@@ -15,7 +15,7 @@ Ninja=={
 "3":{"Cost":1500,"Damage":14,"Range":30,"AttackRate":0.7,"Pierce":4},
 "4":{"Cost":5500,"Damage":38,"Range":30,"AttackRate":0.6,"Pierce":4},
 "5":{"Cost":15000,"Damage":46,"Range":40,"AttackRate":0.25,"Pierce":5},
-"6":{"Cost":25000,"Damage":120,"Range":50,"AttackRate":0.25,"Pierce":5}
+"6":{"Cost":25000,"Damage":96,"Range":50,"AttackRate":0.25,"Pierce":5}
 }-----
 Wizard=={
 "Level":0,
