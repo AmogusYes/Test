@@ -74,8 +74,8 @@ V-5=={"basehp":60000,"speed":1}
 V-1=={"basehp":80,"speed":1.8}
 Skeleton=={"basehp":150,"speed":3}
 Meat=={"basehp":4000,"speed":1}
-Vampire=={"basehp":1000,"speed":2.5}
-bat=={"basehp":200,"speed":11}
+Vampire=={"basehp":1500,"speed":2.5}
+bat=={"basehp":250,"speed":13}
 Fast skeleton=={"basehp":200,"speed":6}
-Metal skeleton=={"basehp":2000,"speed":3}
+Metal skeleton=={"basehp":2500,"speed":3}
 Pumpkin=={"basehp":1000000000,"speed":0.5}
