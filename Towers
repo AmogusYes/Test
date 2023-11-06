@@ -38,11 +38,11 @@ Isaac=={
 Dissolver=={
 "Level":0,
 "Limit":2,
-"1":{"Cost":900,"Damage":2,"Range":18,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.2,"PuddleTime":3},
+"1":{"Cost":1000,"Damage":2,"Range":18,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.2,"PuddleTime":3},
 "2":{"Cost":1900,"Damage":4,"Range":18,"AttackRate":2.25,"FlyTime":0.45,"TickRate":0.18,"PuddleTime":3},
-"3":{"Cost":2400,"Damage":8,"Range":19,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
-"4":{"Cost":6500,"Damage":10,"Range":20,"AttackRate":2,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":4},
-"5":{"Cost":16500,"Damage":20,"Range":20,"AttackRate":1.5,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":5}
+"3":{"Cost":2500,"Damage":8,"Range":19,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
+"4":{"Cost":7000,"Damage":10,"Range":20,"AttackRate":2,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":4},
+"5":{"Cost":18000,"Damage":20,"Range":20,"AttackRate":1.5,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":5}
 }-----
 Repulsor=={
 "Diameter":3,
