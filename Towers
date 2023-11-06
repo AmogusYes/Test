@@ -221,7 +221,7 @@ Boxer=={
 "6":{"Cost":6000,"Damage":50,"Range":10,"AttackRate":0.5}
 }-----
 Saitama=={
-"Level":0,
+"Level":-1,
 "Limit":0,
 "1":{"Cost":50000,"Damage":1000,"Range":11,"AttackRate":2,"AOE":30},
 "2":{"Cost":30000,"Damage":1600,"Range":11,"AttackRate":2,"AOE":45},
