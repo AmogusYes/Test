@@ -12,9 +12,9 @@ Apparition=={
 "Limit":1,
 "1":{"Cost":1200,"AttackRate":0.5,"Damage":9,"Range":11,"Detect Range":30},
 "2":{"Cost":650,"AttackRate":0.4,"Damage":11,"Range":11,"Detect Range":30},
-"3":{"Cost":1650,"AttackRate":0.4,"Damage":21,"Range":11,"Detect Range":30},
+"3":{"Cost":1650,"AttackRate":0.4,"Damage":21,"Range":13,"Detect Range":30},
 "4":{"Cost":8800,"AttackRate":0.3,"Damage":55,"Range":13,"Detect Range":30},
-"5":{"Cost":27500,"AttackRate":0.3,"Damage":180,"Range":13,"Detect Range":30}
+"5":{"Cost":27500,"AttackRate":0.3,"Damage":180,"Range":15,"Detect Range":30}
 }-----
 Ninja=={
 "Level":0,
