@@ -64,7 +64,7 @@ Shotgunner=={
 "5":{"Cost":10000,"Range":22,"Damage":80,"AOE":9,"AttackRate":1}
 }-----
 Gunner=={
-"Level":3,
+"Level":5,
 "Limit":0,
 "1":{"Cost":450,"Damage":1,"Range":25,"AttackRate":0.3},
 "2":{"Cost":350,"Damage":1,"Range":25,"AttackRate":0.18},
@@ -165,7 +165,7 @@ Baller=={
 "5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":420,"AttackRate":1}
 }-----
 Sniper=={
-"Level":5,
+"Level":3,
 "Limit":0,
 "1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
 "2":{"Cost":300,"Damage":20,"Range":50,"AttackRate":4},
