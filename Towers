@@ -7,6 +7,15 @@ Minigunner=={
 "4":{"Cost":6000,"Damage":8,"Range":35,"AttackRate":0.1},
 "5":{"Cost":10000,"Damage":15,"Range":42,"AttackRate":0.09}
 }-----
+Apparition=={
+"Level":-1,
+"Limit":1,
+"1":{"Cost":1200,"AttackRate":0.5,"Damage":9,"Range":11,"Detect Range":30,},
+"2":{"Cost":650,"AttackRate":0.4,"Damage":11,"Range":11,"Detect Range":30,},
+"3":{"Cost":1650,"AttackRate":0.4,"Damage":21,"Range":11,"Detect Range":30,},
+"4":{"Cost":8800,"AttackRate":0.3,"Damage":55,"Range":13,"Detect Range":30,},
+"5":{"Cost":22000,"AttackRate":0.3,"Damage":155,"Range":13,"Detect Range":30,}
+}-----
 Ninja=={
 "Level":0,
 "Limit":3,
