@@ -113,11 +113,11 @@ Flamethrower=={
 Mortar=={
 "Level":25,
 "Limit":4,
-"1":{"Cost":1500,"AOE":10,"Damage":10,"Range":40,"AttackRate":2.7},
-"2":{"Cost":2500,"AOE":12,"Damage":25,"Range":45,"AttackRate":3},
-"3":{"Cost":5250,"AOE":14,"Damage":60,"Range":45,"AttackRate":3.2},
-"4":{"Cost":11250,"AOE":17,"Damage":160,"Range":50,"AttackRate":3.5},
-"5":{"Cost":34000,"AOE":23,"Damage":525,"Range":60,"AttackRate":4.3}
+"1":{"Cost":1500,"AOE":10,"Damage":10,"Range":40,"AttackRate":3},
+"2":{"Cost":2500,"AOE":12,"Damage":25,"Range":45,"AttackRate":3.2},
+"3":{"Cost":5000,"AOE":14,"Damage":60,"Range":45,"AttackRate":3.2},
+"4":{"Cost":11250,"AOE":18,"Damage":160,"Range":50,"AttackRate":3.5},
+"5":{"Cost":34000,"AOE":24,"Damage":525,"Range":60,"AttackRate":4.3}
 }-----
 Pyramid=={
 "Level":0,
