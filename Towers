@@ -11,7 +11,7 @@ Apparition=={
 "Level":-1,
 "Limit":1,
 "1":{"Cost":1750,"AttackRate":0.4,"Damage":8,"Range":12,"Detect Range":30},
-"2":{"Cost":100,"AttackRate":0.3,"Damage":10,"Range":12,"Detect Range":30},
+"2":{"Cost":450,"AttackRate":0.3,"Damage":10,"Range":12,"Detect Range":30},
 "3":{"Cost":2550,"AttackRate":0.3,"Damage":25,"Range":12,"Detect Range":30},
 "4":{"Cost":6750,"AttackRate":0.2,"Damage":60,"Range":12,"Detect Range":30},
 "5":{"Cost":15500,"AttackRate":0.4,"Damage":175,"Range":15,"Detect Range":30}
