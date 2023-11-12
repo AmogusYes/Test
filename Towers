@@ -80,7 +80,7 @@ Gunner=={
 "3":{"Cost":550,"Damage":2,"Range":25,"AttackRate":0.2},
 "4":{"Cost":2100,"Damage":4,"Range":25,"AttackRate":0.2},
 "5":{"Cost":5500,"Damage":6,"Range":33,"AttackRate":0.1},
-"6":{"Cost":12800,"Damage":18,"Range":40,"AttackRate":0.1}
+"6":{"Cost":12800,"Damage":18,"Range":43,"AttackRate":0.08}
 }-----
 Freezer=={
 "Level":17,
