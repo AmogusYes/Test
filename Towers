@@ -94,11 +94,11 @@ Freezer=={
 Pistoler=={
 "Level":1,
 "Limit":0,
-"1":{"Cost":220,"Damage":2,"Range":26,"AttackRate":1.1},
-"2":{"Cost":180,"Damage":3,"Range":28,"AttackRate":1},
-"3":{"Cost":595,"Damage":5,"Range":30,"AttackRate":0.9},
+"1":{"Cost":200,"Damage":2,"Range":26,"AttackRate":1.1},
+"2":{"Cost":150,"Damage":3,"Range":28,"AttackRate":1},
+"3":{"Cost":550,"Damage":5,"Range":30,"AttackRate":0.9},
 "4":{"Cost":1000,"Damage":8,"Range":30,"AttackRate":0.8},
-"5":{"Cost":1900,"Damage":11,"Range":32,"AttackRate":0.7},
+"5":{"Cost":2000,"Damage":11,"Range":32,"AttackRate":0.6},
 "6":{"Cost":6250,"Damage":27,"Range":45,"AttackRate":0.3}
 }-----
 Flamethrower=={
