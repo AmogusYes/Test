@@ -1,11 +1,11 @@
 Minigunner=={
 "Level":15,
 "Limit":0,
-"1":{"Cost":2000,"Damage":2,"Range":30,"AttackRate":0.1},
-"2":{"Cost":1000,"Damage":3,"Range":35,"AttackRate":0.1},
-"3":{"Cost":3000,"Damage":6,"Range":35,"AttackRate":0.1},
-"4":{"Cost":7500,"Damage":11,"Range":40,"AttackRate":0.09},
-"5":{"Cost":12000,"Damage":20,"Range":45,"AttackRate":0.09}
+"1":{"AttackRate":0.15,"Damage":3,"Range":25,"Cost":2000},
+"2":{"AttackRate":0.15,"Damage":4,"Range":30,"Cost":650},
+"3":{"AttackRate":0.12,"Damage":6,"Range":30,"Cost":2400},
+"4":{"AttackRate":0.12,"Damage":13,"Range":35,"Cost":6000},
+"5":{"AttackRate":0.1,"Damage":20,"Range":42,"Cost":9000}
 }-----
 Apparition=={
 "Level":-1,
