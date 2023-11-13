@@ -87,9 +87,9 @@ Freezer=={
 "Limit":2,
 "1":{"Damage":2,"AOE":7,"Cost":400,"SpeedDebuff":15,"DebuffTime":4,"Range":20,"AttackRate":2.5},
 "2":{"Damage":4,"AOE":7,"Cost":350,"SpeedDebuff":20,"DebuffTime":4,"Range":22,"AttackRate":2},
-"3":{"Damage":6,"AOE":7,"Cost":2000,"SpeedDebuff":25,"DebuffTime":5,"Range":25,"AttackRate":2},
-"4":{"Damage":8,"AOE":9,"Cost":3000,"SpeedDebuff":25,"DebuffTime":7,"Range":30,"AttackRate":1.75},
-"5":{"Damage":10,"AOE":9,"Cost":5000,"SpeedDebuff":35,"DebuffTime":8.5,"Range":30,"AttackRate":1.75}
+"3":{"Damage":6,"AOE":7,"Cost":1200,"SpeedDebuff":25,"DebuffTime":5,"Range":25,"AttackRate":2},
+"4":{"Damage":8,"AOE":9,"Cost":2500,"SpeedDebuff":25,"DebuffTime":7,"Range":30,"AttackRate":1.75},
+"5":{"Damage":10,"AOE":10,"Cost":5000,"SpeedDebuff":35,"DebuffTime":8.5,"Range":30,"AttackRate":1.6}
 }-----
 Pistoler=={
 "Level":1,
