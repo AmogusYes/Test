@@ -213,11 +213,11 @@ Miner=={
 Thief=={
 "Level":13,
 "Limit":3,
-"1":{"Cost":500,"Cash":35,"Damage":5,"Range":11,"AttackRate":1},
-"2":{"Cost":275,"Cash":45,"Damage":7,"Range":11,"AttackRate":0.85},
-"3":{"Cost":900,"Cash":75,"Damage":12,"Range":11,"AttackRate":0.8},
-"4":{"Cost":1500,"Cash":90,"Damage":21,"Range":11,"AttackRate":0.6},
-"5":{"Cost":4500,"Cash":150,"Damage":35,"Range":12,"AttackRate":0.6}
+"1":{"Cost":500,"Cash":35,"Damage":6,"Range":11,"AttackRate":1},
+"2":{"Cost":300,"Cash":50,"Damage":9,"Range":11,"AttackRate":0.85},
+"3":{"Cost":900,"Cash":75,"Damage":16,"Range":11,"AttackRate":0.8},
+"4":{"Cost":1500,"Cash":90,"Damage":30,"Range":11,"AttackRate":0.6},
+"5":{"Cost":4500,"Cash":150,"Damage":40,"Range":12,"AttackRate":0.6}
 }-----
 Boxer=={
 "Level":0,
