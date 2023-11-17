@@ -18,6 +18,42 @@ Gunner=={
 "5":{"Cost":5500,"Damage":6,"Range":33,"AttackRate":0.1},
 "6":{"Cost":12800,"Damage":18,"Range":43,"AttackRate":0.08}
 }-----
+Sniper=={
+"Level":3,
+"Limit":0,
+"1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
+"2":{"Cost":300,"Damage":20,"Range":50,"AttackRate":4},
+"3":{"Cost":1500,"Damage":45,"Range":50,"AttackRate":3.5},
+"4":{"Cost":2500,"Damage":95,"Range":60,"AttackRate":3.2},
+"5":{"Cost":5000,"Damage":150,"Range":75,"AttackRate":2.8}
+}-----
+Miner=={
+"Level":8,
+"Limit":0,
+"1":{"Cost":550,"Cash":70},
+"2":{"Cost":550,"Cash":140},
+"3":{"Cost":2100,"Cash":400},
+"4":{"Cost":5000,"Cash":1000},
+"5":{"Cost":10000,"Cash":2100}
+}-----
+Shotgunner=={
+"Level":10,
+"Limit":8,
+"1":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":5}, 
+"2":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":10},
+"3":{"Cost":1650,"Range":20,"Damage":20,"AOE":7,"AttackRate":1.5},
+"4":{"Cost":2500,"Range":20,"Damage":40,"AOE":9,"AttackRate":1.5}, 
+"5":{"Cost":10000,"Range":22,"Damage":80,"AOE":9,"AttackRate":1}
+}-----
+Thief=={
+"Level":13,
+"Limit":3,
+"1":{"Cost":500,"Cash":35,"Damage":6,"Range":11,"AttackRate":1},
+"2":{"Cost":300,"Cash":50,"Damage":9,"Range":11,"AttackRate":0.85},
+"3":{"Cost":900,"Cash":75,"Damage":16,"Range":11,"AttackRate":0.8},
+"4":{"Cost":1500,"Cash":90,"Damage":30,"Range":11,"AttackRate":0.6},
+"5":{"Cost":4500,"Cash":150,"Damage":40,"Range":12,"AttackRate":0.6}
+}-----
 Minigunner=={
 "Level":15,
 "Limit":0,
@@ -27,51 +63,41 @@ Minigunner=={
 "4":{"AttackRate":0.09,"Damage":11,"Range":40,"Cost":7500},
 "5":{"AttackRate":0.09,"Damage":20,"Range":45,"Cost":12000}
 }-----
-Apparition=={
-"Level":-1,
-"Limit":1,
-"1":{"Cost":1200,"AttackRate":0.5,"Damage":9,"Range":11,"Detect Range":30},
-"2":{"Cost":650,"AttackRate":0.4,"Damage":11,"Range":11,"Detect Range":30},
-"3":{"Cost":1650,"AttackRate":0.4,"Damage":21,"Range":13,"Detect Range":30},
-"4":{"Cost":8400,"AttackRate":0.3,"Damage":55,"Range":13,"Detect Range":30},
-"5":{"Cost":25000,"AttackRate":0.3,"Damage":180,"Range":15,"Detect Range":30}
-}-----
-Ninja=={
-"Level":0,
-"Limit":3,
-"1":{"Cost":500,"Damage":4,"Range":25,"AttackRate":1,"Pierce":3},
-"2":{"Cost":600,"Damage":7,"Range":25,"AttackRate":0.8,"Pierce":3},
-"3":{"Cost":1500,"Damage":14,"Range":30,"AttackRate":0.7,"Pierce":4},
-"4":{"Cost":5500,"Damage":38,"Range":30,"AttackRate":0.6,"Pierce":4},
-"5":{"Cost":15000,"Damage":45,"Range":40,"AttackRate":0.25,"Pierce":5},
-"6":{"Cost":25000,"Damage":85,"Range":45,"AttackRate":0.25,"Pierce":5}
-}-----
-Wizard=={
-"Level":0,
+Freezer=={
+"Level":17,
 "Limit":2,
-"1":{"Cost":1500,"AOE":15,"Damage":200,"Range":25,"AttackRate":10},
-"2":{"Cost":2300,"AOE":15,"Damage":600,"Range":25,"AttackRate":11},
-"3":{"Cost":4000,"AOE":15,"Damage":1400,"Range":35,"AttackRate":14},
-"4":{"Cost":11250,"AOE":20,"Damage":4000,"Range":35,"AttackRate":15},
-"5":{"Cost":24500,"AOE":25,"Damage":9000,"Range":40,"AttackRate":16}
+"1":{"Damage":2,"AOE":7,"Cost":400,"SpeedDebuff":15,"DebuffTime":4,"Range":20,"AttackRate":2.5},
+"2":{"Damage":4,"AOE":7,"Cost":350,"SpeedDebuff":20,"DebuffTime":4,"Range":22,"AttackRate":2},
+"3":{"Damage":6,"AOE":7,"Cost":1200,"SpeedDebuff":25,"DebuffTime":5,"Range":25,"AttackRate":2},
+"4":{"Damage":8,"AOE":9,"Cost":2500,"SpeedDebuff":25,"DebuffTime":7,"Range":30,"AttackRate":1.75},
+"5":{"Damage":10,"AOE":10,"Cost":5000,"SpeedDebuff":35,"DebuffTime":8.5,"Range":30,"AttackRate":1.6}
 }-----
-Isaac=={
-"Level":-1,
-"Limit":3,
-"1":{"Cost":500,"Damage":5,"Range":25,"AttackRate":0.6,"Tears":1},
-"2":{"Cost":750,"Damage":10,"Range":25,"AttackRate":0.55,"Tears":1},
-"3":{"Cost":1500,"Damage":15,"Range":30,"AttackRate":0.5,"Tears":1},
-"4":{"Cost":4500,"Damage":20,"Range":30,"AttackRate":0.45,"Tears":2},
-"5":{"Cost":8500,"Damage":40,"Range":40,"AttackRate":0.4,"Tears":2}
+Mortar=={
+"Level":25,
+"Limit":4,
+"1":{"Cost":850,"AOE":12,"Damage":10,"Range":40,"AttackRate":3.5},
+"2":{"Cost":600,"AOE":12,"Damage":15,"Range":45,"AttackRate":3},
+"3":{"Cost":4250,"AOE":15,"Damage":60,"Range":45,"AttackRate":3},
+"4":{"Cost":7500,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
+"5":{"Cost":20000,"AOE":25,"Damage":600,"Range":60,"AttackRate":4.5}
 }-----
-Dissolver=={
-"Level":0,
-"Limit":2,
-"1":{"Cost":1000,"Damage":2,"Range":18,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.2,"PuddleTime":3},
-"2":{"Cost":1900,"Damage":4,"Range":18,"AttackRate":2.25,"FlyTime":0.45,"TickRate":0.18,"PuddleTime":3},
-"3":{"Cost":2500,"Damage":8,"Range":19,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
-"4":{"Cost":7000,"Damage":10,"Range":20,"AttackRate":2,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":4},
-"5":{"Cost":18000,"Damage":20,"Range":20,"AttackRate":1.5,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":5}
+Plasm=={
+"Level":30,
+"Limit":8,
+"1":{"AttackRate":0.15,"Damage":6,"Range":40,"Cost":3000},
+"2":{"AttackRate":0.15,"Damage":8,"Range":40,"Cost":1500},
+"3":{"AttackRate":0.1,"Damage":12,"Range":45,"Cost":3000},
+"4":{"AttackRate":0.1,"Damage":30,"Range":55,"Cost":10000},
+"5":{"AttackRate":0.1,"Damage":65,"Range":60,"Cost":20000}
+}-----
+Chainer=={
+"Level":55,
+"Limit":5,
+"1":{"Chain length":4,"Chain range":8,"Cost":2750,"AttackRate":5,"Range":40,"Damage":75},
+"2":{"Chain length":4,"Chain range":8,"Cost":1950,"AttackRate":4.5,"Range":45,"Damage":125},
+"3":{"Chain length":5,"Chain range":8,"Cost":6500,"AttackRate":4,"Range":45,"Damage":225},
+"4":{"Chain length":6,"Chain range":10,"Cost":14250,"AttackRate":3.7,"Range":50,"Damage":500},
+"5":{"Chain length":7,"Chain range":12,"Cost":35000,"AttackRate":3.2,"Range":60,"Damage":975}
 }-----
 Repulsor=={
 "Diameter":3,
@@ -83,23 +109,52 @@ Repulsor=={
 "4":{"Burst":35,"Cost":32000,"Damage":250,"Range":50,"AttackRate":1.75},
 "5":{"Burst":50,"Cost":57000,"Damage":350,"Range":60,"AttackRate":1.5}
 }-----
-Shotgunner=={
-"Level":10,
-"Limit":8,
-"1":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":5}, 
-"2":{"Cost":500,"AOE":7,"AttackRate":2,"Range":18,"Damage":10},
-"3":{"Cost":1650,"Range":20,"Damage":20,"AOE":7,"AttackRate":1.5},
-"4":{"Cost":2500,"Range":20,"Damage":40,"AOE":9,"AttackRate":1.5}, 
-"5":{"Cost":10000,"Range":22,"Damage":80,"AOE":9,"AttackRate":1}
+Apparition=={
+"Level":-1,
+"Limit":1,
+"1":{"Cost":1200,"AttackRate":0.5,"Damage":9,"Range":11,"Detect Range":30},
+"2":{"Cost":650,"AttackRate":0.4,"Damage":11,"Range":11,"Detect Range":30},
+"3":{"Cost":1650,"AttackRate":0.4,"Damage":21,"Range":13,"Detect Range":30},
+"4":{"Cost":8400,"AttackRate":0.3,"Damage":55,"Range":13,"Detect Range":30},
+"5":{"Cost":25000,"AttackRate":0.3,"Damage":180,"Range":15,"Detect Range":30}
 }-----
-Freezer=={
-"Level":17,
+Baller=={
+"Level":-1,
 "Limit":2,
-"1":{"Damage":2,"AOE":7,"Cost":400,"SpeedDebuff":15,"DebuffTime":4,"Range":20,"AttackRate":2.5},
-"2":{"Damage":4,"AOE":7,"Cost":350,"SpeedDebuff":20,"DebuffTime":4,"Range":22,"AttackRate":2},
-"3":{"Damage":6,"AOE":7,"Cost":1200,"SpeedDebuff":25,"DebuffTime":5,"Range":25,"AttackRate":2},
-"4":{"Damage":8,"AOE":9,"Cost":2500,"SpeedDebuff":25,"DebuffTime":7,"Range":30,"AttackRate":1.75},
-"5":{"Damage":10,"AOE":10,"Cost":5000,"SpeedDebuff":35,"DebuffTime":8.5,"Range":30,"AttackRate":1.6}
+"1":{"Cost":555,"Bounce":4,"Damage":4,"Range":25,"AttackRate":2},
+"2":{"Cost":1234,"Bounce":4,"Damage":10,"Range":30,"AttackRate":1.5},
+"3":{"Cost":7777,"Bounce":6,"Damage":50,"Range":35,"AttackRate":1.5},
+"4":{"Cost":12345,"Bounce":8,"Damage":100,"Range":35,"AttackRate":1},
+"5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":420,"AttackRate":1}
+}-----
+Boxer=={
+"Level":0,
+"Limit":0,
+"1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
+"2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.7},
+"3":{"Cost":500,"Damage":13,"Range":10,"AttackRate":0.7},
+"4":{"Cost":1050,"Damage":20,"Range":10,"AttackRate":0.65},
+"5":{"Cost":2000,"Damage":30,"Range":10,"AttackRate":0.5},
+"6":{"Cost":6000,"Damage":50,"Range":10,"AttackRate":0.5}
+}-----
+Dead eye=={
+"Level":0,
+"Limit":14,
+"1":{"Damage":5,"AttackRate":0.75,"Range":35,"Cost":1150},
+"2":{"Damage":7,"AttackRate":0.65,"Range":35,"Cost":450},
+"3":{"Damage":11,"AttackRate":0.55,"Range":45,"Cost":1250},
+"4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5500},
+"5":{"Damage":75,"AttackRate":0.35,"Range":55,"Cost":18500},
+"6":{"Damage":160,"AttackRate":0.5,"Range":60,"Cost":30000}
+}-----
+Dissolver=={
+"Level":0,
+"Limit":2,
+"1":{"Cost":1000,"Damage":2,"Range":18,"AttackRate":2.5,"FlyTime":0.5,"TickRate":0.2,"PuddleTime":3},
+"2":{"Cost":1900,"Damage":4,"Range":18,"AttackRate":2.25,"FlyTime":0.45,"TickRate":0.18,"PuddleTime":3},
+"3":{"Cost":2500,"Damage":8,"Range":19,"AttackRate":2,"FlyTime":0.4,"TickRate":0.15,"PuddleTime":3},
+"4":{"Cost":7000,"Damage":10,"Range":20,"AttackRate":2,"FlyTime":0.35,"TickRate":0.15,"PuddleTime":4},
+"5":{"Cost":18000,"Damage":20,"Range":20,"AttackRate":1.5,"FlyTime":0.3,"TickRate":0.15,"PuddleTime":5}
 }-----
 Flamethrower=={
 "Level":0,
@@ -110,14 +165,42 @@ Flamethrower=={
 "4":{"Cost":6500,"FireTime":4,"TickRate":0.5,"AOE":6,"Damage":8,"Range":18,"AttackRate":0.1},
 "5":{"Cost":9000,"FireTime":5,"TickRate":0.5,"AOE":6,"Damage":18,"Range":18,"AttackRate":0.1}
 }-----
-Mortar=={
-"Level":25,
-"Limit":4,
-"1":{"Cost":850,"AOE":12,"Damage":10,"Range":40,"AttackRate":3.5},
-"2":{"Cost":600,"AOE":12,"Damage":15,"Range":45,"AttackRate":3},
-"3":{"Cost":4250,"AOE":15,"Damage":60,"Range":45,"AttackRate":3},
-"4":{"Cost":7500,"AOE":15,"Damage":150,"Range":50,"AttackRate":3},
-"5":{"Cost":20000,"AOE":25,"Damage":600,"Range":60,"AttackRate":4.5}
+Isaac=={
+"Level":-1,
+"Limit":3,
+"1":{"Cost":500,"Damage":5,"Range":25,"AttackRate":0.6,"Tears":1},
+"2":{"Cost":750,"Damage":10,"Range":25,"AttackRate":0.55,"Tears":1},
+"3":{"Cost":1500,"Damage":15,"Range":30,"AttackRate":0.5,"Tears":1},
+"4":{"Cost":4500,"Damage":20,"Range":30,"AttackRate":0.45,"Tears":2},
+"5":{"Cost":8500,"Damage":40,"Range":40,"AttackRate":0.4,"Tears":2}
+}-----
+Grave=={
+"Level":0,
+"Limit":2,
+"1":{"Zombie level":1,"Cooldown":10,"Cost":800},
+"2":{"Zombie level":2,"Cooldown":12,"Cost":2500},
+"3":{"Zombie level":3,"Cooldown":18,"Cost":5200},
+"4":{"Zombie level":4,"Cooldown":22,"Cost":7300},
+"5":{"Zombie level":5,"Cooldown":35,"Cost":37000}
+}-----
+Hunter=={
+"Level":0,
+"Limit":0,
+"1":{"Cost":300,"Damage":10,"Range":35,"AttackRate":3},
+"2":{"Cost":400,"Damage":15,"Range":40,"AttackRate":2.6.},
+"3":{"Cost":1500,"Damage":30,"Range":50,"AttackRate":2.6},
+"4":{"Cost":3300,"Damage":70,"Range":55,"AttackRate":2.2},
+"5":{"Cost":6500,"Damage":125,"Range":60,"AttackRate":2}
+}-----
+Ninja=={
+"Level":0,
+"Limit":3,
+"1":{"Cost":500,"Damage":4,"Range":25,"AttackRate":1,"Pierce":3},
+"2":{"Cost":600,"Damage":7,"Range":25,"AttackRate":0.8,"Pierce":3},
+"3":{"Cost":1500,"Damage":14,"Range":30,"AttackRate":0.7,"Pierce":4},
+"4":{"Cost":5500,"Damage":38,"Range":30,"AttackRate":0.6,"Pierce":4},
+"5":{"Cost":15000,"Damage":45,"Range":40,"AttackRate":0.25,"Pierce":5},
+"6":{"Cost":25000,"Damage":85,"Range":45,"AttackRate":0.25,"Pierce":5}
 }-----
 Pyramid=={
 "Level":0,
@@ -137,14 +220,14 @@ Robot=={
 "4":{"Missile damage":160,"Missile cooldown":15,"Missile AOE":13,"Cost":29000,"Missile amount":8,"Damage":35,"Range":60,"AttackRate":0.1},
 "5":{"Missile damage":200,"Missile cooldown":15,"Missile AOE":14,"Cost":42000,"Missile amount":10,"Damage":55,"Range":60,"AttackRate":0.09}
 }-----
-Grave=={
-"Level":0,
-"Limit":2,
-"1":{"Zombie level":1,"Cooldown":10,"Cost":800},
-"2":{"Zombie level":2,"Cooldown":12,"Cost":2500},
-"3":{"Zombie level":3,"Cooldown":18,"Cost":5200},
-"4":{"Zombie level":4,"Cooldown":22,"Cost":7300},
-"5":{"Zombie level":5,"Cooldown":35,"Cost":37000}
+Saitama=={
+"Level":-1,
+"Limit":0,
+"1":{"Cost":50000,"Damage":1000,"Range":11,"AttackRate":2,"AOE":30},
+"2":{"Cost":30000,"Damage":1600,"Range":11,"AttackRate":2,"AOE":45},
+"3":{"Cost":100000,"Damage":2700,"Range":11,"AttackRate":1.5,"AOE":45},
+"4":{"Cost":300000,"Damage":7200,"Range":11,"AttackRate":1.5,"AOE":60},
+"5":{"Cost":1000000,"Damage":20000,"Range":11,"AttackRate":1.2,"AOE":80}
 }-----
 War camp=={
 "Level":-1,
@@ -155,95 +238,12 @@ War camp=={
 "4":{"Unit level":4,"Cooldown":30,"Cost":25000},
 "5":{"Unit level":5,"Cooldown":35,"Cost":50000}
 }-----
-Plasm=={
-"Level":30,
-"Limit":8,
-"1":{"AttackRate":0.15,"Damage":6,"Range":40,"Cost":3000},
-"2":{"AttackRate":0.15,"Damage":8,"Range":40,"Cost":1500},
-"3":{"AttackRate":0.1,"Damage":12,"Range":45,"Cost":3000},
-"4":{"AttackRate":0.1,"Damage":30,"Range":55,"Cost":10000},
-"5":{"AttackRate":0.1,"Damage":65,"Range":60,"Cost":20000}
-}-----
-Baller=={
-"Level":-1,
+Wizard=={
+"Level":0,
 "Limit":2,
-"1":{"Cost":555,"Bounce":4,"Damage":4,"Range":25,"AttackRate":2},
-"2":{"Cost":1234,"Bounce":4,"Damage":10,"Range":30,"AttackRate":1.5},
-"3":{"Cost":7777,"Bounce":6,"Damage":50,"Range":35,"AttackRate":1.5},
-"4":{"Cost":12345,"Bounce":8,"Damage":100,"Range":35,"AttackRate":1},
-"5":{"Cost":999999,"Bounce":10,"Damage":2420,"Range":420,"AttackRate":1}
-}-----
-Sniper=={
-"Level":3,
-"Limit":0,
-"1":{"Cost":600,"Damage":20,"Range":45,"AttackRate":5},
-"2":{"Cost":300,"Damage":20,"Range":50,"AttackRate":4},
-"3":{"Cost":1500,"Damage":45,"Range":50,"AttackRate":3.5},
-"4":{"Cost":2500,"Damage":95,"Range":60,"AttackRate":3.2},
-"5":{"Cost":5000,"Damage":150,"Range":75,"AttackRate":2.8}
-}-----
-Dead eye=={
-"Level":0,
-"Limit":14,
-"1":{"Damage":5,"AttackRate":0.75,"Range":35,"Cost":1150},
-"2":{"Damage":7,"AttackRate":0.65,"Range":35,"Cost":450},
-"3":{"Damage":11,"AttackRate":0.55,"Range":45,"Cost":1250},
-"4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5500},
-"5":{"Damage":75,"AttackRate":0.35,"Range":55,"Cost":18500},
-"6":{"Damage":160,"AttackRate":0.5,"Range":60,"Cost":30000}
-}-----
-Hunter=={
-"Level":0,
-"Limit":0,
-"1":{"Cost":300,"Damage":10,"Range":35,"AttackRate":3},
-"2":{"Cost":400,"Damage":15,"Range":40,"AttackRate":2.6.},
-"3":{"Cost":1500,"Damage":30,"Range":50,"AttackRate":2.6},
-"4":{"Cost":3300,"Damage":70,"Range":55,"AttackRate":2.2},
-"5":{"Cost":6500,"Damage":125,"Range":60,"AttackRate":2}
-}-----
-Miner=={
-"Level":8,
-"Limit":0,
-"1":{"Cost":550,"Cash":70},
-"2":{"Cost":550,"Cash":140},
-"3":{"Cost":2100,"Cash":400},
-"4":{"Cost":5000,"Cash":1000},
-"5":{"Cost":10000,"Cash":2100}
-}-----
-Thief=={
-"Level":13,
-"Limit":3,
-"1":{"Cost":500,"Cash":35,"Damage":6,"Range":11,"AttackRate":1},
-"2":{"Cost":300,"Cash":50,"Damage":9,"Range":11,"AttackRate":0.85},
-"3":{"Cost":900,"Cash":75,"Damage":16,"Range":11,"AttackRate":0.8},
-"4":{"Cost":1500,"Cash":90,"Damage":30,"Range":11,"AttackRate":0.6},
-"5":{"Cost":4500,"Cash":150,"Damage":40,"Range":12,"AttackRate":0.6}
-}-----
-Boxer=={
-"Level":0,
-"Limit":0,
-"1":{"Cost":250,"Damage":4,"Range":10,"AttackRate":1},
-"2":{"Cost":250,"Damage":7,"Range":10,"AttackRate":0.7},
-"3":{"Cost":500,"Damage":13,"Range":10,"AttackRate":0.7},
-"4":{"Cost":1050,"Damage":20,"Range":10,"AttackRate":0.65},
-"5":{"Cost":2000,"Damage":30,"Range":10,"AttackRate":0.5},
-"6":{"Cost":6000,"Damage":50,"Range":10,"AttackRate":0.5}
-}-----
-Saitama=={
-"Level":-1,
-"Limit":0,
-"1":{"Cost":50000,"Damage":1000,"Range":11,"AttackRate":2,"AOE":30},
-"2":{"Cost":30000,"Damage":1600,"Range":11,"AttackRate":2,"AOE":45},
-"3":{"Cost":100000,"Damage":2700,"Range":11,"AttackRate":1.5,"AOE":45},
-"4":{"Cost":300000,"Damage":7200,"Range":11,"AttackRate":1.5,"AOE":60},
-"5":{"Cost":1000000,"Damage":20000,"Range":11,"AttackRate":1.2,"AOE":80}
-}-----
-Chainer=={
-"Level":55,
-"Limit":5,
-"1":{"Chain length":4,"Chain range":8,"Cost":2750,"AttackRate":5,"Range":40,"Damage":75},
-"2":{"Chain length":4,"Chain range":8,"Cost":1950,"AttackRate":4.5,"Range":45,"Damage":125},
-"3":{"Chain length":5,"Chain range":8,"Cost":6500,"AttackRate":4,"Range":45,"Damage":225},
-"4":{"Chain length":6,"Chain range":10,"Cost":14250,"AttackRate":3.7,"Range":50,"Damage":500},
-"5":{"Chain length":7,"Chain range":12,"Cost":35000,"AttackRate":3.2,"Range":60,"Damage":975}
+"1":{"Cost":1500,"AOE":15,"Damage":200,"Range":25,"AttackRate":10},
+"2":{"Cost":2300,"AOE":15,"Damage":600,"Range":25,"AttackRate":11},
+"3":{"Cost":4000,"AOE":15,"Damage":1400,"Range":35,"AttackRate":14},
+"4":{"Cost":11250,"AOE":20,"Damage":4000,"Range":35,"AttackRate":15},
+"5":{"Cost":24500,"AOE":25,"Damage":9000,"Range":40,"AttackRate":16}
 }
