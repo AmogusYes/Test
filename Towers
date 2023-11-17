@@ -242,8 +242,8 @@ Wizard=={
 "Level":0,
 "Limit":2,
 "1":{"Cost":2000,"AOE":12,"Damage":100,"Range":25,"AttackRate":10},
-"2":{"Cost":2750,"AOE":14,"Damage":250,"Range":25,"AttackRate":11},
-"3":{"Cost":4250,"AOE":18,"Damage":500,"Range":35,"AttackRate":14},
-"4":{"Cost":12000,"AOE":20,"Damage":1250,"Range":35,"AttackRate":15},
-"5":{"Cost":25000,"AOE":22,"Damage":3000,"Range":40,"AttackRate":16}
+"2":{"Cost":2750,"AOE":14,"Damage":250,"Range":25,"AttackRate":10},
+"3":{"Cost":4250,"AOE":18,"Damage":500,"Range":35,"AttackRate":10},
+"4":{"Cost":12000,"AOE":20,"Damage":1250,"Range":35,"AttackRate":10},
+"5":{"Cost":25000,"AOE":22,"Damage":3000,"Range":40,"AttackRate":10}
 }
