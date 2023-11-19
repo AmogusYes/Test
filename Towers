@@ -3,9 +3,9 @@ Pistoler=={
 "Limit":0,
 "1":{"Cost":400,"Damage":4,"Range":24,"AttackRate":1.6},
 "2":{"Cost":650,"Damage":7,"Range":26,"AttackRate":1.3},
-"3":{"Cost":1000,"Damage":10,"Range":26,"AttackRate":1.2},
-"4":{"Cost":1750,"Damage":20,"Range":30,"AttackRate":1},
-"5":{"Cost":2500,"Damage":35,"Range":30,"AttackRate":0.85},
+"3":{"Cost":1000,"Damage":12,"Range":26,"AttackRate":1.2},
+"4":{"Cost":1750,"Damage":22,"Range":30,"AttackRate":1},
+"5":{"Cost":2500,"Damage":30,"Range":30,"AttackRate":0.85},
 "6":{"Cost":6250,"Damage":27,"Range":45,"AttackRate":0.3}
 }-----
 Gunner=={
