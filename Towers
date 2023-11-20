@@ -139,13 +139,13 @@ Boxer=={
 }-----
 Dead eye=={
 "Level":0,
-"Limit":14,
-"1":{"Damage":5,"AttackRate":0.75,"Range":35,"Cost":1150},
-"2":{"Damage":7,"AttackRate":0.65,"Range":35,"Cost":450},
-"3":{"Damage":11,"AttackRate":0.55,"Range":45,"Cost":1250},
-"4":{"Damage":30,"AttackRate":0.45,"Range":45,"Cost":5500},
-"5":{"Damage":75,"AttackRate":0.35,"Range":55,"Cost":18500},
-"6":{"Damage":160,"AttackRate":0.5,"Range":60,"Cost":30000}
+"Limit":0,
+"1":{"Damage":10,"AttackRate":1.2,"Range":30,"Cost":1000},
+"2":{"Damage":15,"AttackRate":1,"Range":35,"Cost":725},
+"3":{"Damage":25,"AttackRate":0.6,"Range":40,"Cost":2675},
+"4":{"Damage":45,"AttackRate":0.5,"Range":45,"Cost":4500},
+"5":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":16000},
+"6":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":0}
 }-----
 Dissolver=={
 "Level":0,
