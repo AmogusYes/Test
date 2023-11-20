@@ -57,11 +57,11 @@ Thief=={
 Minigunner=={
 "Level":15,
 "Limit":0,
-"1":{"AttackRate":0.1,"Damage":2,"Range":30,"Cost":2500},
-"2":{"AttackRate":0.1,"Damage":3,"Range":35,"Cost":1250},
-"3":{"AttackRate":0.1,"Damage":6,"Range":35,"Cost":3500},
-"4":{"AttackRate":0.09,"Damage":11,"Range":40,"Cost":7500},
-"5":{"AttackRate":0.09,"Damage":20,"Range":45,"Cost":12000}
+"1":{"AttackRate":0.1,"Damage":2,"Range":30,"Cost":2750},
+"2":{"AttackRate":0.1,"Damage":3,"Range":35,"Cost":1300},
+"3":{"AttackRate":0.1,"Damage":5,"Range":35,"Cost":2700},
+"4":{"AttackRate":0.1,"Damage":10,"Range":40,"Cost":6750},
+"5":{"AttackRate":0.1,"Damage":20,"Range":45,"Cost":12500}
 }-----
 Freezer=={
 "Level":17,
@@ -140,12 +140,12 @@ Boxer=={
 Dead eye=={
 "Level":0,
 "Limit":0,
-"1":{"Damage":10,"AttackRate":1.2,"Range":30,"Cost":1000},
-"2":{"Damage":15,"AttackRate":1,"Range":35,"Cost":725},
-"3":{"Damage":25,"AttackRate":0.6,"Range":40,"Cost":2675},
-"4":{"Damage":45,"AttackRate":0.5,"Range":45,"Cost":4500},
-"5":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":16000},
-"6":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":0}
+"1":{"Damage":5,"AttackRate":0.65,"Range":30,"Cost":1000},
+"2":{"Damage":10,"AttackRate":0.65,"Range":35,"Cost":950},
+"3":{"Damage":20,"AttackRate":0.5,"Range":40,"Cost":2750},
+"4":{"Damage":40,"AttackRate":0.4,"Range":45,"Cost":6250},
+"5":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":18500},
+"6":{"Damage":80,"AttackRate":0.3,"Range":50,"Cost":99999999999999999999999999999999999999999999999999999999}
 }-----
 Dissolver=={
 "Level":0,
