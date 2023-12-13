@@ -5,7 +5,7 @@ Slow=={"basehp":50,"speed":2.4}
 Bobux=={"basehp":17777,"speed":9}
 Bucket zombie=={"basehp":1000,"speed":2.4}
 Random3=={"basehp":2100,"speed":3.6}
-Skibidi toilet=={"basehp":999999,"speed":1}
+Skibidi toilet=={"basehp":9999999,"speed":1}
 Defender=={"basehp":18500,"speed":2.3}
 Zapster=={"basehp":20000,"speed":6}
 Chunk=={"basehp":60000,"speed":5}
@@ -13,13 +13,13 @@ Rusher boss-A=={"basehp":20000,"speed":4}
 Conehead zombie=={"basehp":300,"speed":2.4}
 Creature=={"basehp":60000,"speed":3}
 Test-001=={"basehp":475000,"speed":0.85}
-Despuktor=={"basehp":678901,"speed":3}
-Destroyer=={"basehp":160001,"speed":1.6}
+Despuktor=={"basehp":678900,"speed":3}
+Destroyer=={"basehp":160000,"speed":1.6}
 Rust=={"basehp":40000,"speed":1.2}
 Football zombie=={"basehp":1500,"speed":5.6}
 Gargantuar=={"basehp":15000,"speed":2}
 Giant=={"basehp":6000,"speed":2.4}
-Giant-A=={"basehp":15000,"speed":1.8}
+Giant-A=={"basehp":20000,"speed":1.8}
 Glitch=={"basehp":7777,"speed":20}
 Glowy=={"basehp":55555,"speed":3}
 Void=={"basehp":1000000,"speed":1.2}
@@ -57,9 +57,9 @@ ConeHead=={"basehp":36750,"speed":3}
 Creature1=={"basehp":50000,"speed":2.8}
 Zapster1=={"basehp":20000,"speed":6}
 arrow=={"basehp":5000,"speed":24}
-Placeholder=={"basehp":100,"speed":3}
+Placeholder=={"basehp":2617100,"speed":3}
 V-1old=={"basehp":80,"speed":1.5}
-V-1old2=={"basehp":80,"speed":1.5}
+V-1old2=={"basehp":65480,"speed":1.5}
 V-2old=={"basehp":500,"speed":1}
 V-3old=={"basehp":6000,"speed":0.8}
 V-4old=={"basehp":2750,"speed":1}
