@@ -170,9 +170,9 @@ Isaac=={
 "Limit":3,
 "1":{"Cost":500,"Damage":5,"Range":25,"AttackRate":0.6,"Tears":1},
 "2":{"Cost":750,"Damage":10,"Range":25,"AttackRate":0.55,"Tears":1},
-"3":{"Cost":1500,"Damage":15,"Range":30,"AttackRate":0.5,"Tears":1},
-"4":{"Cost":4500,"Damage":20,"Range":30,"AttackRate":0.45,"Tears":2},
-"5":{"Cost":8500,"Damage":40,"Range":40,"AttackRate":0.4,"Tears":2}
+"3":{"Cost":1500,"Damage":15,"Range":30,"AttackRate":0.5,"Tears":2},
+"4":{"Cost":8500,"Damage":40,"Range":30,"AttackRate":0.45,"Tears":2},
+"5":{"Cost":16500,"Damage":220,"Range":60,"AttackRate":0.05,"Tears":6}
 }-----
 Grave=={
 "Level":0,
