@@ -248,7 +248,7 @@ Wizard=={
 "5":{"Cost":20000,"AOE":22,"Damage":4250,"Range":55,"AttackRate":10}
 }-----
 Laser pistoler=={
-"Level":0,
+"Level":-1,
 "Limit":0,
 "1":{"Cost":1000,"Damage":5,"Range":25,"AttackRate":0.5},
 "2":{"Cost":550,"Damage":8,"Range":28,"AttackRate":0.5},
