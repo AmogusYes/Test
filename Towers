@@ -246,4 +246,12 @@ Wizard=={
 "3":{"Cost":3250,"AOE":18,"Damage":700,"Range":45,"AttackRate":10},
 "4":{"Cost":10000,"AOE":20,"Damage":1850,"Range":45,"AttackRate":10},
 "5":{"Cost":20000,"AOE":22,"Damage":4250,"Range":55,"AttackRate":10}
-}
+}-----
+Laser pistoler=={
+"Level":0,
+"Limit":2,
+"1":{"Cost":1000,"Damage":5,"Range":25,"AttackRate":0.5},
+"2":{"Cost":550,"Damage":8,"Range":28,"AttackRate":0.5},
+"3":{"Cost":1250,"Damage":13,"Range":30,"AttackRate":0.4},
+"4":{"Cost":2400,"Damage":16,"Range":32,"AttackRate":0.35},
+"5":{"Cost":5250,"Damage":25,"Range":35,"AttackRate":0.25},
