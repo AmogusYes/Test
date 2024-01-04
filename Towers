@@ -254,5 +254,5 @@ Laser pistoler=={
 "2":{"Cost":550,"Damage":10,"Range":30,"AttackRate":0.5},
 "3":{"Cost":2700,"Damage":25,"Range":30,"AttackRate":0.4},
 "4":{"Cost":5600,"Damage":35,"Range":32,"AttackRate":0.35},
-"5":{"Cost":15400,"Damage":40,"Range":40,"AttackRate":0.1}
+"5":{"Cost":15400,"Damage":40,"Range":40,"AttackRate":0.25}
 }
