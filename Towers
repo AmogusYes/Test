@@ -258,7 +258,7 @@ Laser pistoler=={
 }-----
 Demoman=={
 "Level":5,
-"Limit":4,
+"Limit":0,
 "1":{"Cost":500,"AOE":5,"Damage":10,"Range":20,"AttackRate":1.5},
 "2":{"Cost":350,"AOE":6,"Damage":12,"Range":22,"AttackRate":1.4},
 "3":{"Cost":750,"AOE":8,"Damage":15,"Range":25,"AttackRate":1.35},
