@@ -255,4 +255,13 @@ Laser pistoler=={
 "3":{"Cost":2700,"Damage":25,"Range":30,"AttackRate":0.4},
 "4":{"Cost":5600,"Damage":35,"Range":32,"AttackRate":0.35},
 "5":{"Cost":12500,"Damage":40,"Range":40,"AttackRate":0.25}
+}-----
+Demoman=={
+"Level":5,
+"Limit":4,
+"1":{"Cost":500,"AOE":5,"Damage":5,"Range":20,"AttackRate":0.8},
+"2":{"Cost":350,"AOE":6,"Damage":6,"Range":22,"AttackRate":0.75},
+"3":{"Cost":750,"AOE":8,"Damage":8,"Range":25,"AttackRate":0.65},
+"4":{"Cost":1250,"AOE":10,"Damage":12,"Range":30,"AttackRate":0.65},
+"5":{"Cost":3500,"AOE":12,"Damage":20,"Range":35,"AttackRate":0.5}
 }
