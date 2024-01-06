@@ -187,7 +187,7 @@ Hunter=={
 "Level":0,
 "Limit":0,
 "1":{"Cost":500,"Damage":10,"Range":35,"AttackRate":3},
-"2":{"Cost":500,"Damage":15,"Range":40,"AttackRate":2.6.},
+"2":{"Cost":500,"Damage":15,"Range":40,"AttackRate":2.6},
 "3":{"Cost":2000,"Damage":30,"Range":50,"AttackRate":2.6},
 "4":{"Cost":3600,"Damage":70,"Range":55,"AttackRate":2.2},
 "5":{"Cost":8000,"Damage":110,"Range":60,"AttackRate":1.85}
