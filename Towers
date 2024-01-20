@@ -205,11 +205,11 @@ Ninja=={
 Pyramid=={
 "Level":0,
 "Limit":1,
-"1":{"AttackRate buff":0,"Cost":800,"Damage buff":0,"Range":22,"Range buff":5},
-"2":{"AttackRate buff":5,"Cost":1200,"Damage buff":0,"Range":22,"Range buff":8},
-"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":5,"Range":23,"Range buff":8},
-"4":{"AttackRate buff":5,"Cost":5000,"Damage buff":10,"Range":23,"Range buff":10},
-"5":{"AttackRate buff":10,"Cost":12000,"Damage buff":15,"Range":25,"Range buff":10}
+"1":{"AttackRate buff":5,"Cost":1000,"Damage buff":0,"Range":22,"Range buff":5},
+"2":{"AttackRate buff":5,"Cost":1200,"Damage buff":0,"Range":22,"Range buff":5},
+"3":{"AttackRate buff":5,"Cost":2000,"Damage buff":5,"Range":23,"Range buff":5},
+"4":{"AttackRate buff":10,"Cost":6500,"Damage buff":10,"Range":23,"Range buff":10},
+"5":{"AttackRate buff":15,"Cost":14000,"Damage buff":15,"Range":23,"Range buff":10}
 }-----
 Robot=={
 "Level":0,
